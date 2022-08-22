@@ -19,13 +19,13 @@ OBJECTS := $(patsubst $(SRCDIR)/%,$(BUILDDIR)/%,$(SOURCES:.$(SRCEXT)=.$(OBJEXT))
 
 all: directories $(TARGET)
 
-$(BUILDDIR)/%.csv: $(SRCDIR)/%.xlsx
+$(BUILDDIR)/%.csv: $(SRCDIR)/%.xlsx directories
 	$(IN2CSV) $< | $(LEDGERIZE) > $@
 
 directories:
 	@mkdir -p $(BUILDDIR)
 
 clean:
-	@(RM) -rf $(BUILDDIR)
+	@$(RM) -rf $(BUILDDIR)
 
 $(TARGET): $(OBJECTS)
