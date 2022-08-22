@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sed '1,/Bokföringsdatum/d' | cat <(echo "Date,Currency Date,Transaction Number,Description,Amount Debit,Balance") -
+sed '1,/Bokföringsdatum/d' | cat <(echo "date,currency_date,transid,desc,amount,,") -
 
