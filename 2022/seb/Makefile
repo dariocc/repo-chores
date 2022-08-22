@@ -1,7 +1,8 @@
 IN2CSV:=in2csv
 
 # Custom scripts
-TOOLS_DIR=$(git rev-parsse --show-toplevel)/Tools
+ROOT_DIR         := $(shell git rev-parse --show-toplevel)
+TOOLS_DIR        := $(ROOT_DIR)/Tools
 LEDGERIZE=$(TOOLS_DIR)/seb-csv-ledgerize
 
 TARGET           := seb-principal.ledger
@@ -14,11 +15,11 @@ SRCEXT           := xlsx
 OBJEXT           := csv
 
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))
-OBJECTS := $(pathsubst $(SRCDIR)/%,$(BUILDDIR)/%,$(SOURCES:.$(SRCEXT)=.$(OBJEXT)))
+OBJECTS := $(patsubst $(SRCDIR)/%,$(BUILDDIR)/%,$(SOURCES:.$(SRCEXT)=.$(OBJEXT)))
 
 all: directories $(TARGET)
 
-$(BUILDDIR)/%.csv: %.xlsx
+$(BUILDDIR)/%.csv: $(SRCDIR)/%.xlsx
 	$(IN2CSV) $< | $(LEDGERIZE) > $@
 
 directories:
