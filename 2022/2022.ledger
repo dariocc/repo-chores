@@ -1,7 +1,7 @@
-2022-01-01 * Opening Balance
- Assets:SEB:SEB Principa                      9388 SEK
- Assets:ICA:ICA Privat                        85992.1 SEK
- Assets:ICA:ICA Shared                        4576.86 SEK
+2022-01-01 * Opening Balances
+ Assets:SEB:SEB Principal                 9388 SEK
+ Assets:ICA:ICA Privat                    85992.1 SEK
+ Assets:ICA:ICA Shared                    4576.86 SEK
  Assets:ING:Cuenta Sin Nómina             €3805.00
  Assets:ING:Cuenta Naranja                €559.60
  Assets:DanskeBank:Danske Konto           547.56 DKK
@@ -17,7 +17,3 @@
  Assets:Nordnet:Min ISK                   0.00 SEK
  Equity:Options:Neo4j                     2187 "CS-729" {=$1006.02}
  Equity:Opening Balances
-
-#Assets:Investments:Securities                  
-#Assets:Investments:ISK:Nordnet
-#Assets:Investments:Aktier:Avanza               24319.00 SEK

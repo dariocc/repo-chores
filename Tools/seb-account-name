@@ -1,0 +1,10 @@
+#!/bin/bash
+# Return a ledger account name for input file names
+
+case "$1" in 
+    *seb-principal*)
+        echo "5001 03 974 26";;
+    *)
+        echo "not found"
+        exit 1;;
+esac
