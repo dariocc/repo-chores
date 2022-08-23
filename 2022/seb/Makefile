@@ -1,4 +1,3 @@
-IN2CSV           :=in2csv
 LEDGER           :=ledger
 
 # Tools
@@ -24,7 +23,7 @@ LEDGERS := $(patsubst $(SRCDIR)/%,%,$(XLSXS:.$(XLSEXT)=.$(LEDEXT)))
 all: directories $(LEDGERS)
 
 $(BUILDDIR)/%.csv: $(SRCDIR)/%.$(XLSEXT) directories
-	$(IN2CSV) $< | $(LEDGERIZE) > $@
+	$(LEDGERIZE) "$<" > $@
 
 directories:
 	@mkdir -p $(BUILDDIR)

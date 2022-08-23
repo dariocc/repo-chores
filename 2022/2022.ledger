@@ -1,23 +1,23 @@
 include accounts.ledger
 
 2022-01-01 * Opening Balances
- Assets:SEB:SEB Principal                 9388 SEK
- Assets:ICA:ICA Privat                    85992.1 SEK
- Assets:ICA:ICA Shared                    4576.86 SEK
- Assets:ING:Cuenta Sin Nómina             €3805.00
- Assets:ING:Cuenta Naranja                €559.60
- Assets:DanskeBank:Danske Konto           547.56 DKK
- Assets:Revolut:EUR                       €0.16
- Assets:Revolut:SEK                       4.27 SEK
- Assets:Revolut:DKK                       530.00 DKK
- Assets:Wise:EUR                          €0.00
- Assets:Wise:SEK                          0.00 SEK
- Assets:Wise:DKK                          50000 DKK
- Assets:Wise:USD                          $86.80
- Assets:Avanza:Min ISK                    0.14 SEK
- Assets:Avanza:Min AK                     0.00 SEK
- Assets:Nordnet:Min ISK                   0.00 SEK
- Equity:Options:Neo4j                     2187 "CS-729" {=$1006.02}
- Equity:Opening Balances
+    Assets:SEB:SEB Principal                 9388 SEK
+    Equity:Opening Balances
+;Assets:ICA:ICA Privat                    85992.1 SEK
+;Assets:ICA:ICA Shared                    4576.86 SEK
+;Assets:ING:Cuenta Sin Nómina             €3805.00
+;Assets:ING:Cuenta Naranja                €559.60
+;Assets:DanskeBank:Danske Konto           547.56 DKK
+;Assets:Revolut:EUR                       €0.16
+;Assets:Revolut:SEK                       4.27 SEK
+;Assets:Revolut:DKK                       530.00 DKK
+;Assets:Wise:EUR                          €0.00
+;Assets:Wise:SEK                          0.00 SEK
+;Assets:Wise:DKK                          50000 DKK
+;Assets:Wise:USD                          $86.80
+;Assets:Avanza:Min ISK                    0.14 SEK
+;Assets:Avanza:Min AK                     0.00 SEK
+;Assets:Nordnet:Min ISK                   0.00 SEK
+;Equity:Options:Neo4j                     2187 "CS-729" {=$1006.02}
 
 include seb/seb-principal.ledger
