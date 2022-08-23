@@ -1,3 +1,5 @@
+include accounts
+
 2022-01-01 * Opening Balances
  Assets:SEB:SEB Principal                 9388 SEK
  Assets:ICA:ICA Privat                    85992.1 SEK
@@ -17,3 +19,5 @@
  Assets:Nordnet:Min ISK                   0.00 SEK
  Equity:Options:Neo4j                     2187 "CS-729" {=$1006.02}
  Equity:Opening Balances
+
+include seb/seb-principal.ledger

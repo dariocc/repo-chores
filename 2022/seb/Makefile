@@ -5,10 +5,7 @@ LEDGER           :=ledger
 ROOT_DIR         := $(shell git rev-parse --show-toplevel)
 TOOLS_DIR        := $(ROOT_DIR)/Tools
 LEDGERIZE        :=$(TOOLS_DIR)/seb-csv-ledgerize
-
-# Target ledger file # TODO: Egenerate Automatically
-ACCOUNT_PREFIX   := Assets:SEB:SEB
-ACCOUNT          := Assets:SEB:SEB Principal
+ACCOUNT_NAME	 :=$(TOOLS_DIR)/seb-account-name
 
 # Directories
 SRCDIR           := in
@@ -36,4 +33,4 @@ clean:
 	@$(RM) -rf $(BUILDDIR)
 
 %.$(LEDEXT): $(BUILDDIR)/%.$(CSVEXT)
-	ledger convert $< --input-date-format "%Y-%m-%d" --account $(ACCOUNT) --rich-data --invert --auto-match -f $@
+	ledger convert $< --input-date-format "%Y-%m-%d" --account "$$($(ACCOUNT_NAME) "$<")" --rich-data --invert --auto-match -f $@

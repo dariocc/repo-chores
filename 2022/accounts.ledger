@@ -1,5 +1,8 @@
 ;Checking accounts
 account Assets:SEB:SEB Principal
+    alias 5001 03 974 26
+    check commodity == "SEK"
+    assert commodity == "SEK"
 account Assets:ICA:ICA Privat
 account Assets:ICA:ICA:Shared
 account Assets:ING:Cuenta Sin Nómina
@@ -43,4 +46,4 @@ account Expenses:Sport
 account Expenses:HealthCare
 account Expenses:Dentist
 account Expenses:Hobbies
-account Expenses:Uncategorized
+account Expenses:Unkown
