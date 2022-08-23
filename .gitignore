@@ -1,1 +1,5 @@
+# Build directory for automatic imports
 gen/
+
+# LibreOffice lock files
+.~lock.*
