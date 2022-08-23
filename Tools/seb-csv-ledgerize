@@ -4,6 +4,7 @@
 # JQ Expressions
 JQ_SET_CURRENCY='.[].amount |= (. | tostring + "SEK") | .[].balance |= (. | tostring + " SEK")'
 JQ_STRIP_DESC_DATES_AND_SPACES='.[].desc |= sub("\\s*/.*$";"")'
+JQ_SORT_BY_DATE='sort_by(.date)'
 
 # Convert XLSX to CSV
 # Remove useless lines
@@ -22,4 +23,5 @@ in2csv $1                                                              \
     | csvjson                                                          \
     | jq "$JQ_SET_CURRENCY"                                            \
     | jq "$JQ_STRIP_DESC_DATES_AND_SPACES"                             \
-    | in2csv -f json                                                   \
+    | jq "$JQ_SORT_BY_DATE"                                            \
+    | in2csv -f json
