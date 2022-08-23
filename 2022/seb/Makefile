@@ -1,7 +1,7 @@
 IN2CSV           :=in2csv
 LEDGER           :=ledger
 
-# Custom scripts
+# Tools
 ROOT_DIR         := $(shell git rev-parse --show-toplevel)
 TOOLS_DIR        := $(ROOT_DIR)/Tools
 LEDGERIZE        :=$(TOOLS_DIR)/seb-csv-ledgerize
