@@ -33,4 +33,4 @@ clean:
 	@$(RM) -rf $(BUILDDIR)
 
 %.$(LEDEXT): $(BUILDDIR)/%.$(CSVEXT)
-	ledger convert $< --input-date-format "%Y-%m-%d" --account "$$($(ACCOUNT_NAME) "$<")" --rich-data --invert --auto-match -f $@
+	ledger convert $< --input-date-format "%Y-%m-%d" --account "$$($(ACCOUNT_NAME) "$<")" --rich-data --invert --auto-match -f $@ > $@

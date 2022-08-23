@@ -1,4 +1,8 @@
 #!/bin/bash
 
-sed '1,/Bokföringsdatum/d' | cat <(echo "date,currency_date,transid,desc,amount,,") -
+data="$(sed '1,/Bokföringsdatum/d' | cat <(echo "date,currency_date,transid,desc,amount,balance") - )" 
 
+JQ_SET_CURRENCY='.[].amount |= (. | tostring + "SEK") | .[].balance |= (. | tostring + " SEK")'
+JQ_STRIP_DESC_DATES_AND_SPACES='.[].desc |= sub("\\s*/.*$";"")'
+
+echo "$data" | csvjson | jq "$JQ_SET_CURRENCY" | jq "$JQ_STRIP_DESC_DATES_AND_SPACES" | in2csv -f json

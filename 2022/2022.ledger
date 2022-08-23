@@ -1,4 +1,4 @@
-include accounts
+include accounts.ledger
 
 2022-01-01 * Opening Balances
  Assets:SEB:SEB Principal                 9388 SEK

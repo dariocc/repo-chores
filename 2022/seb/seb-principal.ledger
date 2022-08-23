@@ -1,0 +1,1988 @@
+2022/08/20 * ZTL FLAX - C
+    ; balance: 219105.13 SEK
+    ; CSV: 2022-08-22,2022-08-20,5484543131,ZTL FLAX - C,-92.0SEK,219105.13 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484543131
+    ; UUID: 86c3031700fc0cf0db8c190aa2b02ef0bcf5f93e
+    Expenses:Unknown                        92.00SEK
+    5001 03 974 26
+
+2022/08/19 * SEB KORT BANK AB
+    ; balance: 219197.13 SEK
+    ; CSV: 2022-08-19,2022-08-19,2230900406S,SEB KORT BANK AB,-944.28SEK,219197.13 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2230900406S
+    ; UUID: c58bafbb71b4309647ce8764b978bd796043ce72
+    Expenses:Unknown                       944.28SEK
+    5001 03 974 26
+
+2022/08/15 * CAFE HOLMGAN
+    ; balance: 220141.41 SEK
+    ; CSV: 2022-08-15,2022-08-15,5484057874,CAFE HOLMGAN,-78.0SEK,220141.41 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484057874
+    ; UUID: eb2bceafac9b39a1673b93d733ec66761dad90fe
+    Expenses:Unknown                        78.00SEK
+    5001 03 974 26
+
+2022/08/15 * KJELL & CO 0
+    ; balance: 220219.41 SEK
+    ; CSV: 2022-08-15,2022-08-15,5484543156,KJELL & CO 0,-119.7SEK,220219.41 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484543156
+    ; UUID: 43a011f1985d7514cef52abb053d15a554e08032
+    Expenses:Unknown                       119.70SEK
+    5001 03 974 26
+
+2022/08/12 * COOP NOBELTO
+    ; balance: 220339.11 SEK
+    ; CSV: 2022-08-12,2022-08-12,5484423481,COOP NOBELTO,-27.0SEK,220339.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484423481
+    ; UUID: ff0cbbaad1aeb2f30447d3adcff7f2ac355b457c
+    Expenses:Unknown                        27.00SEK
+    5001 03 974 26
+
+2022/08/05 * 1154257889 S
+    ; balance: 220366.11 SEK
+    ; CSV: 2022-08-05,2022-08-05,5872990008,1154257889 S,30000.0SEK,220366.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5872990008
+    ; UUID: d013923b397296a3bfd6db89815e1e7b6b9cb962
+    Expenses:Unknown                    -30000.00SEK
+    5001 03 974 26
+
+2022/08/02 * HALLON
+    ; balance: 190366.11 SEK
+    ; CSV: 2022-08-02,2022-08-02,5484669878,HALLON,-99.0SEK,190366.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484669878
+    ; UUID: aa7793af7be306f22eec4bc3c895d1996eead68d
+    Expenses:Unknown                        99.00SEK
+    5001 03 974 26
+
+2022/08/02 * K*HEMNET AB
+    ; balance: 190465.11 SEK
+    ; CSV: 2022-08-02,2022-08-02,9900000100,K*HEMNET AB,-6190.0SEK,190465.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900000100
+    ; UUID: dd8f72834bd82027aec07751354e48135fb579c2
+    Expenses:Unknown                      6190.00SEK
+    5001 03 974 26
+
+2022/07/29 * MIDO QUALITY
+    ; balance: 196655.11 SEK
+    ; CSV: 2022-07-29,2022-07-29,5484647635,MIDO QUALITY,-14.0SEK,196655.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484647635
+    ; UUID: a41f29f1b16050209e187e15c24191ad13aed9f5
+    Expenses:Unknown                        14.00SEK
+    5001 03 974 26
+
+2022/07/29 * HSB MALMÖ EK FÖR
+    ; balance: 196669.11 SEK
+    ; CSV: 2022-07-29,2022-07-29,2210900404S,HSB MALMÖ EK FÖR,-5626.0SEK,196669.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2210900404S
+    ; UUID: 2314be0e616bb1d6b9819a420928fb32f97e7d50
+    Expenses:Unknown                      5626.00SEK
+    5001 03 974 26
+
+2022/07/29 * SWEDBANK PAY
+    ; balance: 202295.11 SEK
+    ; CSV: 2022-07-29,2022-07-29,9900002100,SWEDBANK PAY,-1760.0SEK,202295.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900002100
+    ; UUID: 7e1dddd62f8b73c6baaffdfeb7e96c0feb235d25
+    Expenses:Unknown                      1760.00SEK
+    5001 03 974 26
+
+2022/07/29 * SBAB BANK AB
+    ; balance: 204055.11 SEK
+    ; CSV: 2022-07-29,2022-07-29,2199900402S,SBAB BANK AB,-2642.0SEK,204055.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2199900402S
+    ; UUID: f0ec1594e66d2e7212f971d3dd36099c0b227e53
+    Expenses:Unknown                      2642.00SEK
+    5001 03 974 26
+
+2022/07/29 * BRF MÄSTER HENRIK
+    ; balance: 206697.11 SEK
+    ; CSV: 2022-07-29,2022-07-29,2196900400S,BRF MÄSTER HENRIK,-3824.0SEK,206697.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2196900400S
+    ; UUID: c92f4bf40a3749a9b8db8a904c7b621d0f948e6b
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/07/29 * SBAB
+    ; balance: 210521.11 SEK
+    ; CSV: 2022-07-29,2022-07-29,2199900401S,SBAB,-6246.0SEK,210521.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2199900401S
+    ; UUID: 16cd37ba856ced5a9287da37d47e3aa52245ebf0
+    Expenses:Unknown                      6246.00SEK
+    5001 03 974 26
+
+2022/07/28 * ENKLA VARDAG
+    ; balance: 216767.11 SEK
+    ; CSV: 2022-07-28,2022-07-28,5490990733,ENKLA VARDAG,-50.0SEK,216767.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: 4d217958bcc6de6c15a7a0a33b6bd66a5f777776
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/07/28 * SV INGENJ
+    ; balance: 216817.11 SEK
+    ; CSV: 2022-07-28,2022-07-28,9900001100,SV INGENJ,-240.0SEK,216817.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: 3d0f978c60242861378f1f6a43b78c7f7bed2366
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/07/28 * EON KUNDSUPPORT SVERIGE
+    ; balance: 217057.11 SEK
+    ; CSV: 2022-07-28,2022-07-28,2195900399S,EON KUNDSUPPORT SVERIGE,-415.0SEK,217057.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2195900399S
+    ; UUID: eff3cbcf2c8b61deb402094f03f9ab54d1b8438c
+    Expenses:Unknown                       415.00SEK
+    5001 03 974 26
+
+2022/07/28 * EON KUNDSUPPORT SVERIGE
+    ; balance: 217472.11 SEK
+    ; CSV: 2022-07-28,2022-07-28,2185900398S,EON KUNDSUPPORT SVERIGE,-199.0SEK,217472.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2185900398S
+    ; UUID: 654c09edc155fe8b58827e6d1e84380623103889
+    Expenses:Unknown                       199.00SEK
+    5001 03 974 26
+
+2022/07/27 * MÄHENRIK 6
+    ; balance: 217671.11 SEK
+    ; CSV: 2022-07-27,2022-07-27,5490990006,MÄHENRIK 6,199500.0SEK,217671.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990006
+    ; UUID: 77af4ca90194c9f2acffa0158851678f0ee392bd
+    Expenses:Unknown                    -199500.00SEK
+    5001 03 974 26
+
+2022/07/27 * BARNFONDEN
+    ; balance: 18171.11 SEK
+    ; CSV: 2022-07-27,2022-07-27,9900003100,BARNFONDEN,-250.0SEK,18171.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 97db51a59407418350d7cc7cf95921d2a3c1dab0
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/07/22 * IZ  FLAX - C
+    ; balance: 18421.11 SEK
+    ; CSV: 2022-07-22,2022-07-22,5484084231,IZ  FLAX - C,-39.0SEK,18421.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484084231
+    ; UUID: a3df3c3083c98dcd19af2e59f2907644db180e0b
+    Expenses:Unknown                        39.00SEK
+    5001 03 974 26
+
+2022/07/22 * 4068204 PRES
+    ; balance: 18460.11 SEK
+    ; CSV: 2022-07-22,2022-07-22,5484135752,4068204 PRES,-23.0SEK,18460.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484135752
+    ; UUID: 0dcf927c5a562721e651f898df24dcbcb13688ae
+    Expenses:Unknown                        23.00SEK
+    5001 03 974 26
+
+2022/07/19 * IKANO BANK
+    ; balance: 18483.11 SEK
+    ; CSV: 2022-07-19,2022-07-19,2199900403S,IKANO BANK,-17715.0SEK,18483.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2199900403S
+    ; UUID: 68ef8ee457e211e429a9fc2daf7b32d8265ce18f
+    Expenses:Unknown                     17715.00SEK
+    5001 03 974 26
+
+2022/07/18 * GENEVA
+    ; balance: 36198.11 SEK
+    ; CSV: 2022-07-18,2022-07-18,5484498941,GENEVA,-2494.18SEK,36198.11 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484498941
+    ; UUID: b78b66643c4472b5893d6f8abe307f427a7734aa
+    Expenses:Unknown                      2494.18SEK
+    5001 03 974 26
+
+2022/07/18 * MOCCA CAFE
+    ; balance: 38692.29 SEK
+    ; CSV: 2022-07-18,2022-07-18,5484775146,MOCCA CAFE,-200.0SEK,38692.29 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484775146
+    ; UUID: 4921e47ac2fae6f0227b2c3e46d735f16899b1b1
+    Expenses:Unknown                       200.00SEK
+    5001 03 974 26
+
+2022/07/18 * ABSMALAND
+    ; balance: 38892.29 SEK
+    ; CSV: 2022-07-18,2022-07-18,5484718820,ABSMALAND,-200.0SEK,38892.29 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484718820
+    ; UUID: 9a77a418109711cfac3d5a6d31bb622d98778c5a
+    Expenses:Unknown                       200.00SEK
+    5001 03 974 26
+
+2022/07/16 * KLARNA BANK
+    ; balance: 39092.29 SEK
+    ; CSV: 2022-07-18,2022-07-16,5490990789,KLARNA BANK,-289.0SEK,39092.29 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 190f2b33c015f6e2b6ee0e175bb49487d6612b58
+    Expenses:Unknown                       289.00SEK
+    5001 03 974 26
+
+2022/07/14 * ZTL SALLYS M
+    ; balance: 39381.29 SEK
+    ; CSV: 2022-07-14,2022-07-14,5484418116,ZTL SALLYS M,-44.0SEK,39381.29 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484418116
+    ; UUID: a7ab022d6a1aec563318be69926dfe4a38f69b15
+    Expenses:Unknown                        44.00SEK
+    5001 03 974 26
+
+2022/07/10 * COOP NORRA P
+    ; balance: 39425.29 SEK
+    ; CSV: 2022-07-11,2022-07-10,5484806061,COOP NORRA P,-24.95SEK,39425.29 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484806061
+    ; UUID: e639edadd220d38711f81a0238c120d8ff4bc53a
+    Expenses:Unknown                        24.95SEK
+    5001 03 974 26
+
+2022/07/09 * ICA SUPERMAR
+    ; balance: 39450.24 SEK
+    ; CSV: 2022-07-11,2022-07-09,5484839164,ICA SUPERMAR,-28.0SEK,39450.24 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484839164
+    ; UUID: de2d8335772b5485067c43e865e1947ca8a6903a
+    Expenses:Unknown                        28.00SEK
+    5001 03 974 26
+
+2022/07/05 * 2694143937 S
+    ; balance: 39478.24 SEK
+    ; CSV: 2022-07-05,2022-07-05,5872990008,2694143937 S,25000.0SEK,39478.24 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5872990008
+    ; UUID: fa743ff44b901e131822e9ce4de5680870bb2d55
+    Expenses:Unknown                    -25000.00SEK
+    5001 03 974 26
+
+2022/07/04 * MATHYLLAN
+    ; balance: 14478.24 SEK
+    ; CSV: 2022-07-04,2022-07-04,5484123189,MATHYLLAN,-65.0SEK,14478.24 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484123189
+    ; UUID: c401b7c388a36677390e943e02e892b82605fd2a
+    Expenses:Unknown                        65.00SEK
+    5001 03 974 26
+
+2022/07/04 * ICA NARA TRI
+    ; balance: 14543.24 SEK
+    ; CSV: 2022-07-04,2022-07-04,5484315069,ICA NARA TRI,-10.0SEK,14543.24 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484315069
+    ; UUID: 315a2090912b1828db1821e159daa4f2a5f93933
+    Expenses:Unknown                        10.00SEK
+    5001 03 974 26
+
+2022/07/04 * COOP NOBELTO
+    ; balance: 14553.24 SEK
+    ; CSV: 2022-07-04,2022-07-04,5484262325,COOP NOBELTO,-44.95SEK,14553.24 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484262325
+    ; UUID: 5e545e4872e057f48422da6f34e4fd3004341fe1
+    Expenses:Unknown                        44.95SEK
+    5001 03 974 26
+
+2022/07/03 * COOP NORRA P
+    ; balance: 14598.19 SEK
+    ; CSV: 2022-07-04,2022-07-03,5484481148,COOP NORRA P,-15.0SEK,14598.19 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484481148
+    ; UUID: 4a4aefa31e147a5afdcd1b263a5b979bfc70ae0a
+    Expenses:Unknown                        15.00SEK
+    5001 03 974 26
+
+2022/07/02 * HALLON
+    ; balance: 14613.19 SEK
+    ; CSV: 2022-07-04,2022-07-02,5484173585,HALLON,-126.33SEK,14613.19 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484173585
+    ; UUID: 41510f320a9052d1be479102bdd4432f68efd1dc
+    Expenses:Unknown                       126.33SEK
+    5001 03 974 26
+
+2022/07/02 * 46768858897
+    ; balance: 14739.52 SEK
+    ; CSV: 2022-07-04,2022-07-02,5490990789,46768858897,-130.0SEK,14739.52 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: b88acb521c878e2a05789f3586cd42aa2714b90e
+    Expenses:Unknown                       130.00SEK
+    5001 03 974 26
+
+2022/06/30 * WEUM GAS AB
+    ; balance: 14869.52 SEK
+    ; CSV: 2022-06-30,2022-06-30,9900003100,WEUM GAS AB,-315.0SEK,14869.52 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 15a2b143fbdd11c4509cc3e7b9a730851cfe2021
+    Expenses:Unknown                       315.00SEK
+    5001 03 974 26
+
+2022/06/30 * HSB MALMÖ EK FÖR
+    ; balance: 15184.52 SEK
+    ; CSV: 2022-06-30,2022-06-30,2180900396S,HSB MALMÖ EK FÖR,-6557.0SEK,15184.52 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2180900396S
+    ; UUID: 91d2c58fa23f136c3435ef3fe5dc6af22e1cb7a9
+    Expenses:Unknown                      6557.00SEK
+    5001 03 974 26
+
+2022/06/30 * SBAB BANK AB
+    ; balance: 21741.52 SEK
+    ; CSV: 2022-06-30,2022-06-30,2167900393S,SBAB BANK AB,-2144.0SEK,21741.52 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2167900393S
+    ; UUID: d93c3aa1ba81b0e163ecdf3266282f99fc2a293f
+    Expenses:Unknown                      2144.00SEK
+    5001 03 974 26
+
+2022/06/30 * BRF MÄSTER HENRIK
+    ; balance: 23885.52 SEK
+    ; CSV: 2022-06-30,2022-06-30,2164900391S,BRF MÄSTER HENRIK,-3824.0SEK,23885.52 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2164900391S
+    ; UUID: b6ffa9969dff113ebb05973de746710f77467224
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/06/30 * SEB KORT BANK AB
+    ; balance: 27709.52 SEK
+    ; CSV: 2022-06-30,2022-06-30,2180900397S,SEB KORT BANK AB,-23673.9SEK,27709.52 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2180900397S
+    ; UUID: 87d32db704d553af9f3069b569d3f00dbe2afc4f
+    Expenses:Unknown                     23673.90SEK
+    5001 03 974 26
+
+2022/06/30 * SBAB
+    ; balance: 51383.42 SEK
+    ; CSV: 2022-06-30,2022-06-30,2167900392S,SBAB,-5927.0SEK,51383.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2167900392S
+    ; UUID: 1f4bfccd040b2e554ef175e9b077c4e46a1caaaa
+    Expenses:Unknown                      5927.00SEK
+    5001 03 974 26
+
+2022/06/29 * COOP NORRA P
+    ; balance: 57310.42 SEK
+    ; CSV: 2022-06-29,2022-06-29,5484368674,COOP NORRA P,-24.9SEK,57310.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484368674
+    ; UUID: 2e5f1326f4b161b80be42e17516525b24c9dde15
+    Expenses:Unknown                        24.90SEK
+    5001 03 974 26
+
+2022/06/29 * ENKLA VARDAG
+    ; balance: 57335.32 SEK
+    ; CSV: 2022-06-29,2022-06-29,5490990733,ENKLA VARDAG,-50.0SEK,57335.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: 0b0f5bfd5da91026a21cf52610632b4929afcf5a
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/06/29 * SWEDBANK PAY
+    ; balance: 57385.32 SEK
+    ; CSV: 2022-06-29,2022-06-29,9900002100,SWEDBANK PAY,-1760.0SEK,57385.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900002100
+    ; UUID: 28788b0d7946d7aeab26b4ed1a8dc2bf52bb08de
+    Expenses:Unknown                      1760.00SEK
+    5001 03 974 26
+
+2022/06/29 * SV INGENJ
+    ; balance: 59145.32 SEK
+    ; CSV: 2022-06-29,2022-06-29,9900001100,SV INGENJ,-240.0SEK,59145.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: 4858d4ab7cede3df63d0af87e80bf89fe8308d37
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/06/28 * COOP NORRA P
+    ; balance: 59385.32 SEK
+    ; CSV: 2022-06-28,2022-06-28,5484168516,COOP NORRA P,-15.0SEK,59385.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484168516
+    ; UUID: e30c2a0358f5cf9a90d9cea3335b60e8a7d775be
+    Expenses:Unknown                        15.00SEK
+    5001 03 974 26
+
+2022/06/28 * EON KUNDSUPPORT SVERIGE
+    ; balance: 59400.32 SEK
+    ; CSV: 2022-06-28,2022-06-28,2160900389S,EON KUNDSUPPORT SVERIGE,-413.0SEK,59400.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2160900389S
+    ; UUID: 70fe196f4d95558fef0539e7af5d91bee747da68
+    Expenses:Unknown                       413.00SEK
+    5001 03 974 26
+
+2022/06/27 * 4215209 7-EL
+    ; balance: 59813.32 SEK
+    ; CSV: 2022-06-27,2022-06-27,5484361410,4215209 7-EL,-39.0SEK,59813.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484361410
+    ; UUID: 459323611fa57a480a52d6c35caaa3a706fbac13
+    Expenses:Unknown                        39.00SEK
+    5001 03 974 26
+
+2022/06/27 * REGION SKÅNE
+    ; balance: 59852.32 SEK
+    ; CSV: 2022-06-27,2022-06-27,5490990789,REGION SKÅNE,-106.0SEK,59852.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 22c89b97a39c71e4e5a970388137c62cf563231c
+    Expenses:Unknown                       106.00SEK
+    5001 03 974 26
+
+2022/06/27 * REGION SKÅNE
+    ; balance: 59958.32 SEK
+    ; CSV: 2022-06-27,2022-06-27,5490990789,REGION SKÅNE,-56.0SEK,59958.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 4dd53a0c7b4734ca673ec08b4b95ca6198244642
+    Expenses:Unknown                        56.00SEK
+    5001 03 974 26
+
+2022/06/27 * BARNFONDEN
+    ; balance: 60014.32 SEK
+    ; CSV: 2022-06-27,2022-06-27,9900003100,BARNFONDEN,-250.0SEK,60014.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 5fa7895e39c6da8be5c7d844150f49aeb2f4450c
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/06/19 * LEKIA TRIANG
+    ; balance: 60264.32 SEK
+    ; CSV: 2022-06-20,2022-06-19,5484428049,LEKIA TRIANG,-299.0SEK,60264.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484428049
+    ; UUID: fd27d9fd4c6bfeaff4411d845e7aca00fb17e902
+    Expenses:Unknown                       299.00SEK
+    5001 03 974 26
+
+2022/06/19 * STADIUM TRIA
+    ; balance: 60563.32 SEK
+    ; CSV: 2022-06-20,2022-06-19,5484426584,STADIUM TRIA,-79.9SEK,60563.32 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484426584
+    ; UUID: 8fb8a36a02bdc16ceac1fbffb31e154c5cae67be
+    Expenses:Unknown                        79.90SEK
+    5001 03 974 26
+
+2022/06/19 * WILLYS HEMMA
+    ; balance: 60643.22 SEK
+    ; CSV: 2022-06-20,2022-06-19,5484268484,WILLYS HEMMA,-65.9SEK,60643.22 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484268484
+    ; UUID: 5f28b200da3708411190ac01ac66b14f7a4b60fc
+    Expenses:Unknown                        65.90SEK
+    5001 03 974 26
+
+2022/06/17 * IKANO BANK
+    ; balance: 60709.12 SEK
+    ; CSV: 2022-06-17,2022-06-17,2168900394S,IKANO BANK,-2250.0SEK,60709.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2168900394S
+    ; UUID: d30c9ac13f54e5c537bc443a372bda9a12f62b06
+    Expenses:Unknown                      2250.00SEK
+    5001 03 974 26
+
+2022/06/14 * 2613324980
+    ; balance: 62959.12 SEK
+    ; CSV: 2022-06-14,2022-06-14,5490990014,2613324980,-15579.0SEK,62959.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990014
+    ; UUID: 40a2e9bfb60fda89421245fc0618337ad983113b
+    Expenses:Unknown                     15579.00SEK
+    5001 03 974 26
+
+2022/06/14 * BABYLON GRIL
+    ; balance: 78538.12 SEK
+    ; CSV: 2022-06-14,2022-06-14,5484284060,BABYLON GRIL,-80.0SEK,78538.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484284060
+    ; UUID: efecc0257b610cc97288de432e43ee2af05ce585
+    Expenses:Unknown                        80.00SEK
+    5001 03 974 26
+
+2022/06/13 * BUREK HOUSE
+    ; balance: 78618.12 SEK
+    ; CSV: 2022-06-13,2022-06-13,5484308604,BUREK HOUSE,-74.0SEK,78618.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484308604
+    ; UUID: 8d870356889851d2aa448b3ae275882d7f8ec907
+    Expenses:Unknown                        74.00SEK
+    5001 03 974 26
+
+2022/06/13 * MORMORS BAGE
+    ; balance: 78692.12 SEK
+    ; CSV: 2022-06-13,2022-06-13,5484144401,MORMORS BAGE,-49.0SEK,78692.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484144401
+    ; UUID: 89d72bc5c2eb5f94eb5a11a39d9f92f4ab8e8459
+    Expenses:Unknown                        49.00SEK
+    5001 03 974 26
+
+2022/06/12 * MORMORS BAGE
+    ; balance: 78741.12 SEK
+    ; CSV: 2022-06-13,2022-06-12,5484305621,MORMORS BAGE,-50.0SEK,78741.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484305621
+    ; UUID: d18450e21de2c041efb3822ba383f9fb909e64f4
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/06/12 * COOP NORRA P
+    ; balance: 78791.12 SEK
+    ; CSV: 2022-06-13,2022-06-12,5484826433,COOP NORRA P,-93.23SEK,78791.12 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484826433
+    ; UUID: e9133f629f79c4025c7109663c2e9f2a1761d8c9
+    Expenses:Unknown                        93.23SEK
+    5001 03 974 26
+
+2022/06/12 * 46731547273
+    ; balance: 78884.35 SEK
+    ; CSV: 2022-06-13,2022-06-12,5490990789,46731547273,750.0SEK,78884.35 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 65e4b9ffcfd0c488638591a6f9b07bd2e388abed
+    Expenses:Unknown                      -750.00SEK
+    5001 03 974 26
+
+2022/06/10 * 4215209 7-EL
+    ; balance: 78134.35 SEK
+    ; CSV: 2022-06-10,2022-06-10,5484513748,4215209 7-EL,-39.0SEK,78134.35 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484513748
+    ; UUID: c211914b02044a1c4a8931457d24e8ebed91b862
+    Expenses:Unknown                        39.00SEK
+    5001 03 974 26
+
+2022/06/10 * COOP NORRA P
+    ; balance: 78173.35 SEK
+    ; CSV: 2022-06-10,2022-06-10,5484317538,COOP NORRA P,-66.45SEK,78173.35 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484317538
+    ; UUID: 7c8d3c86967211d9b550edae886375e47eaeb82f
+    Expenses:Unknown                        66.45SEK
+    5001 03 974 26
+
+2022/06/10 * JOHNNY PRO AB
+    ; balance: 78239.8 SEK
+    ; CSV: 2022-06-10,2022-06-10,2161900390S,JOHNNY PRO AB,-77860.0SEK,78239.8 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2161900390S
+    ; UUID: 65030a4c669f420acbff18d31fd22fc24ec87261
+    Expenses:Unknown                     77860.00SEK
+    5001 03 974 26
+
+2022/06/10 * BUFFERT BABY
+    ; balance: 156099.8 SEK
+    ; CSV: 2022-06-10,2022-06-10,5490990005,BUFFERT BABY,-30000.0SEK,156099.8 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990005
+    ; UUID: e11248afdfeea41157a2cb16fc09b027c281bc99
+    Expenses:Unknown                     30000.00SEK
+    5001 03 974 26
+
+2022/06/09 * MORMORS BAGE
+    ; balance: 186099.8 SEK
+    ; CSV: 2022-06-09,2022-06-09,5484756627,MORMORS BAGE,-74.0SEK,186099.8 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484756627
+    ; UUID: b39780e496f55bb519a14840a6405c554533500d
+    Expenses:Unknown                        74.00SEK
+    5001 03 974 26
+
+2022/06/08 * SANKT KNUTS
+    ; balance: 186173.8 SEK
+    ; CSV: 2022-06-08,2022-06-08,5484316657,SANKT KNUTS,-35.0SEK,186173.8 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484316657
+    ; UUID: 813bcba3649ebeb50406e13733979732f435a677
+    Expenses:Unknown                        35.00SEK
+    5001 03 974 26
+
+2022/06/07 * COOP NOBELTO
+    ; balance: 186208.8 SEK
+    ; CSV: 2022-06-07,2022-06-07,5484390198,COOP NOBELTO,-48.85SEK,186208.8 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484390198
+    ; UUID: 563358730b2a3e0b98072541b6e99dcca55df707
+    Expenses:Unknown                        48.85SEK
+    5001 03 974 26
+
+2022/06/07 * CLAS OHLSON
+    ; balance: 186257.65 SEK
+    ; CSV: 2022-06-07,2022-06-07,5484359929,CLAS OHLSON,-59.9SEK,186257.65 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484359929
+    ; UUID: 178f46b255ab379f423d4d7d3e3398e83294e05b
+    Expenses:Unknown                        59.90SEK
+    5001 03 974 26
+
+2022/06/02 * HALLON
+    ; balance: 186317.55 SEK
+    ; CSV: 2022-06-02,2022-06-02,5484199474,HALLON,-99.0SEK,186317.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484199474
+    ; UUID: a2322f548976abaf0413b7a0806435f93e7f7b6f
+    Expenses:Unknown                        99.00SEK
+    5001 03 974 26
+
+2022/06/02 * 0001749075
+    ; balance: 186416.55 SEK
+    ; CSV: 2022-06-02,2022-06-02,1479990101,0001749075,2435.0SEK,186416.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 1479990101
+    ; UUID: 1d28bd2455d71a30eb679e3e6cbf41ae752090d7
+    Expenses:Unknown                     -2435.00SEK
+    5001 03 974 26
+
+2022/06/01 * SELECTA
+    ; balance: 183981.55 SEK
+    ; CSV: 2022-06-01,2022-06-01,5484086865,SELECTA,-12.0SEK,183981.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484086865
+    ; UUID: c8bb6adac23fbd89dfee49148db94da987f74611
+    Expenses:Unknown                        12.00SEK
+    5001 03 974 26
+
+2022/06/01 * SELECTA
+    ; balance: 183993.55 SEK
+    ; CSV: 2022-06-01,2022-06-01,5484086864,SELECTA,-22.0SEK,183993.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484086864
+    ; UUID: ef5a3947a6883b39219bc022e9235841b8e1bf3b
+    Expenses:Unknown                        22.00SEK
+    5001 03 974 26
+
+2022/05/31 * BRF MÄSTER HENRIK
+    ; balance: 184015.55 SEK
+    ; CSV: 2022-05-31,2022-05-31,2073900370S,BRF MÄSTER HENRIK,-3824.0SEK,184015.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2073900370S
+    ; UUID: 5eb873baf85d3ae6393ad482f1a1ff00865287c9
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/05/30 * MORMORS BAGE
+    ; balance: 187839.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,5484858075,MORMORS BAGE,-50.0SEK,187839.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484858075
+    ; UUID: 07a0426f944dc61a89951ce8bb83f7bf0347f719
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/05/30 * ICA NARA TRI
+    ; balance: 187889.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,5484584275,ICA NARA TRI,-20.0SEK,187889.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484584275
+    ; UUID: 9df20038ddfab172e96fd315f79191f94035f468
+    Expenses:Unknown                        20.00SEK
+    5001 03 974 26
+
+2022/05/30 * ENKLA VARDAG
+    ; balance: 187909.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,5490990733,ENKLA VARDAG,-50.0SEK,187909.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: a39b2f3ca1d73478c1278ea8decda6c3fe107e6d
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/05/30 * SV INGENJ
+    ; balance: 187959.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,9900001100,SV INGENJ,-240.0SEK,187959.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: 5b32a69dd0cf95ed555bf69e87f4fb7db28db756
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/05/30 * HSB MALMÖ EK FÖR
+    ; balance: 188199.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,2150900388S,HSB MALMÖ EK FÖR,-5591.0SEK,188199.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2150900388S
+    ; UUID: 8292db6eced2e689e465048d5161e90593dca9cc
+    Expenses:Unknown                      5591.00SEK
+    5001 03 974 26
+
+2022/05/30 * SBAB BANK AB
+    ; balance: 193790.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,2143900382S,SBAB BANK AB,-2145.0SEK,193790.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2143900382S
+    ; UUID: da694b959334871fd7f03be2c9ea0191eea5a43f
+    Expenses:Unknown                      2145.00SEK
+    5001 03 974 26
+
+2022/05/30 * IKANO BANK
+    ; balance: 195935.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,2150900387S,IKANO BANK,-2250.0SEK,195935.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2150900387S
+    ; UUID: da2feea58a39fefc589b9fc32056c0b1da66431a
+    Expenses:Unknown                      2250.00SEK
+    5001 03 974 26
+
+2022/05/30 * SEB KORT BANK AB
+    ; balance: 198185.55 SEK
+    ; CSV: 2022-05-30,2022-05-30,2150900386S,SEB KORT BANK AB,-11069.17SEK,198185.55 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2150900386S
+    ; UUID: dd335d4e6a9a8c2d83412d78aca337d6bd506d9e
+    Expenses:Unknown                     11069.17SEK
+    5001 03 974 26
+
+2022/05/30 * SBAB
+    ; balance: 209254.72 SEK
+    ; CSV: 2022-05-30,2022-05-30,2143900383S,SBAB,-5508.0SEK,209254.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2143900383S
+    ; UUID: 98db0f3bffee903b29328b084350c22ad67e8044
+    Expenses:Unknown                      5508.00SEK
+    5001 03 974 26
+
+2022/05/29 * SUMUP   THE
+    ; balance: 214762.72 SEK
+    ; CSV: 2022-05-30,2022-05-29,5484291979,SUMUP   THE,-76.0SEK,214762.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484291979
+    ; UUID: a908d4b0a14baa628b2e8353dd9955453155a634
+    Expenses:Unknown                        76.00SEK
+    5001 03 974 26
+
+2022/05/29 * 1232476844
+    ; balance: 214838.72 SEK
+    ; CSV: 2022-05-30,2022-05-29,5490990789,1232476844,-52.0SEK,214838.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: f1fe56fe5862377bab5bf18ed2ea52449c16cf04
+    Expenses:Unknown                        52.00SEK
+    5001 03 974 26
+
+2022/05/27 * BARNFONDEN
+    ; balance: 214890.72 SEK
+    ; CSV: 2022-05-27,2022-05-27,9900003100,BARNFONDEN,-250.0SEK,214890.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 7f0efb24d77e89931956d4eea3f476e0a8931168
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/05/27 * EON KUNDSUPPORT SVERIGE
+    ; balance: 215140.72 SEK
+    ; CSV: 2022-05-27,2022-05-27,2143900384S,EON KUNDSUPPORT SVERIGE,-379.0SEK,215140.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2143900384S
+    ; UUID: cc832b27f6ec99b95f7bcd0193a25d713619d4a8
+    Expenses:Unknown                       379.00SEK
+    5001 03 974 26
+
+2022/05/25 * SELECTA
+    ; balance: 215519.72 SEK
+    ; CSV: 2022-05-25,2022-05-25,5484727723,SELECTA,-15.0SEK,215519.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484727723
+    ; UUID: 40d2c0508355cf5ea8293a495a6d35be807b4cfe
+    Expenses:Unknown                        15.00SEK
+    5001 03 974 26
+
+2022/05/25 * MALMOBYBIKE
+    ; balance: 215534.72 SEK
+    ; CSV: 2022-05-25,2022-05-25,5484296663,MALMOBYBIKE,-250.0SEK,215534.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484296663
+    ; UUID: ab2236b02209fbf6f32a2039394cf04cc736fbe0
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/05/25 * JOHNNY PRO AB
+    ; balance: 215784.72 SEK
+    ; CSV: 2022-05-25,2022-05-25,2144900385S,JOHNNY PRO AB,-51790.0SEK,215784.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2144900385S
+    ; UUID: 158b0a877b4a3d4def781a68889e748c326ef8f7
+    Expenses:Unknown                     51790.00SEK
+    5001 03 974 26
+
+2022/05/23 * SODERBERG OC
+    ; balance: 267574.72 SEK
+    ; CSV: 2022-05-23,2022-05-23,5484868026,SODERBERG OC,-31.0SEK,267574.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484868026
+    ; UUID: e442c24b941dd611d705e430d4eae0511a162270
+    Expenses:Unknown                        31.00SEK
+    5001 03 974 26
+
+2022/05/21 * M SWEDEN
+    ; balance: 267605.72 SEK
+    ; CSV: 2022-05-23,2022-05-21,5484725787,M SWEDEN,-281.0SEK,267605.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484725787
+    ; UUID: d31c38ae43f7a3ff83dcb8abffb95dd679616b8c
+    Expenses:Unknown                       281.00SEK
+    5001 03 974 26
+
+2022/05/21 * PÖLSEMANNEN
+    ; balance: 267886.72 SEK
+    ; CSV: 2022-05-23,2022-05-21,5484356629,PÖLSEMANNEN,-55.0SEK,267886.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484356629
+    ; UUID: f06bad6a9317fd133b53092dff853fbf7ef858f7
+    Expenses:Unknown                        55.00SEK
+    5001 03 974 26
+
+2022/05/21 * BLOCKET AB
+    ; balance: 267941.72 SEK
+    ; CSV: 2022-05-23,2022-05-21,5490990789,BLOCKET AB,-75.0SEK,267941.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 8b45a288973bdbceae7cc489d7846a27db03bbd2
+    Expenses:Unknown                        75.00SEK
+    5001 03 974 26
+
+2022/05/19 * ZTL GOSSIP C
+    ; balance: 268016.72 SEK
+    ; CSV: 2022-05-19,2022-05-19,5484023746,ZTL GOSSIP C,-70.0SEK,268016.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484023746
+    ; UUID: dac08a61738e515e5f80198dddbf70c0b341a867
+    Expenses:Unknown                        70.00SEK
+    5001 03 974 26
+
+2022/05/18 * AVANZA
+    ; balance: 268086.72 SEK
+    ; CSV: 2022-05-18,2022-05-18,9550684071,AVANZA,141344.74SEK,268086.72 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9550684071
+    ; UUID: a1351021cf2b52314758bbcfcf1cd110393e6318
+    Expenses:Unknown                    -141344.74SEK
+    5001 03 974 26
+
+2022/05/17 * BROD OCH VEN
+    ; balance: 126741.98 SEK
+    ; CSV: 2022-05-17,2022-05-17,5484521879,BROD OCH VEN,-95.0SEK,126741.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484521879
+    ; UUID: 059180cf954349529c0e791b64e1a789badfcc25
+    Expenses:Unknown                        95.00SEK
+    5001 03 974 26
+
+2022/05/17 * PARKSTER
+    ; balance: 126836.98 SEK
+    ; CSV: 2022-05-17,2022-05-17,2136900381S,PARKSTER,-39.0SEK,126836.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2136900381S
+    ; UUID: 9a0603a521efd0402432ef9696835d4d279d35ee
+    Expenses:Unknown                        39.00SEK
+    5001 03 974 26
+
+2022/05/15 * COOP NORRA P
+    ; balance: 126875.98 SEK
+    ; CSV: 2022-05-16,2022-05-15,5484133763,COOP NORRA P,-25.0SEK,126875.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484133763
+    ; UUID: bd987f70632e2eab1403a6f2a9613894bf976169
+    Expenses:Unknown                        25.00SEK
+    5001 03 974 26
+
+2022/05/13 * 46723255335
+    ; balance: 126900.98 SEK
+    ; CSV: 2022-05-13,2022-05-13,5490990789,46723255335,-150.0SEK,126900.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: d2a734f97b1d39bcff877a4dc45094bc4332a550
+    Expenses:Unknown                       150.00SEK
+    5001 03 974 26
+
+2022/05/12 * ANDPIZZA
+    ; balance: 127050.98 SEK
+    ; CSV: 2022-05-12,2022-05-12,5484262770,ANDPIZZA,-115.0SEK,127050.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484262770
+    ; UUID: 6ab6e7e1714f1256b74d602b8250ccfdd053a64d
+    Expenses:Unknown                       115.00SEK
+    5001 03 974 26
+
+2022/05/12 * ZTL CAFE NUM
+    ; balance: 127165.98 SEK
+    ; CSV: 2022-05-12,2022-05-12,5484758715,ZTL CAFE NUM,-42.0SEK,127165.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484758715
+    ; UUID: 78083a7051d744bfa533322f2133a04e3ce34f68
+    Expenses:Unknown                        42.00SEK
+    5001 03 974 26
+
+2022/05/12 * T NEXTORY CC
+    ; balance: 127207.98 SEK
+    ; CSV: 2022-05-12,2022-05-12,9900000100,T NEXTORY CC,-199.0SEK,127207.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900000100
+    ; UUID: 73a0f1d12f3df7321b6ef84160e9f019f6278a03
+    Expenses:Unknown                       199.00SEK
+    5001 03 974 26
+
+2022/05/11 * IKEA-SVAGERT
+    ; balance: 127406.98 SEK
+    ; CSV: 2022-05-11,2022-05-11,5484297216,IKEA-SVAGERT,2961.0SEK,127406.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484297216
+    ; UUID: b089f0b1bb50e14110a33cc91c6848031a427c01
+    Expenses:Unknown                     -2961.00SEK
+    5001 03 974 26
+
+2022/05/11 * SVEA BANK AB
+    ; balance: 124445.98 SEK
+    ; CSV: 2022-05-11,2022-05-11,2122900380S,SVEA BANK AB,-2435.0SEK,124445.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2122900380S
+    ; UUID: b6ecb3350295a57a5bbdbc409bfb49c672ea993f
+    Expenses:Unknown                      2435.00SEK
+    5001 03 974 26
+
+2022/05/09 * MORMORS BAGE
+    ; balance: 126880.98 SEK
+    ; CSV: 2022-05-09,2022-05-09,5484160385,MORMORS BAGE,-50.0SEK,126880.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484160385
+    ; UUID: 5341996f48326a7564ed34a612e22f75b9bd2064
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/05/09 * COOP NOBELTO
+    ; balance: 126930.98 SEK
+    ; CSV: 2022-05-09,2022-05-09,5484733321,COOP NOBELTO,-93.2SEK,126930.98 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484733321
+    ; UUID: f44d0eefc93c6b688b9a7ae12531552e6b2b02ac
+    Expenses:Unknown                        93.20SEK
+    5001 03 974 26
+
+2022/05/08 * BUREK HOUSE
+    ; balance: 127024.18 SEK
+    ; CSV: 2022-05-09,2022-05-08,5484362768,BUREK HOUSE,-109.0SEK,127024.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484362768
+    ; UUID: 26de137dff711922e96410c21b73fcea8f184ca4
+    Expenses:Unknown                       109.00SEK
+    5001 03 974 26
+
+2022/05/08 * MORMORS BAGE
+    ; balance: 127133.18 SEK
+    ; CSV: 2022-05-09,2022-05-08,5484639623,MORMORS BAGE,-50.0SEK,127133.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484639623
+    ; UUID: e9ccd3d91c920450c314849fb65c8c8b217b8a3b
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/05/06 * PIZZAHOUSE O
+    ; balance: 127183.18 SEK
+    ; CSV: 2022-05-06,2022-05-06,5484416082,PIZZAHOUSE O,-65.0SEK,127183.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484416082
+    ; UUID: 03e31c0c808c887c4709ad9402711143264078c4
+    Expenses:Unknown                        65.00SEK
+    5001 03 974 26
+
+2022/05/06 * BOOKABOAT NO
+    ; balance: 127248.18 SEK
+    ; CSV: 2022-05-06,2022-05-06,5490990789,BOOKABOAT NO,1990.0SEK,127248.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 7a7d77b86a072860f77a2b53708cf9f7ec874fcd
+    Expenses:Unknown                     -1990.00SEK
+    5001 03 974 26
+
+2022/05/05 * COOP NOBELTO
+    ; balance: 125258.18 SEK
+    ; CSV: 2022-05-05,2022-05-05,5484451480,COOP NOBELTO,-20.0SEK,125258.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484451480
+    ; UUID: 2cfd461faf38144b3471cd2cff128cb7ccf20143
+    Expenses:Unknown                        20.00SEK
+    5001 03 974 26
+
+2022/05/05 * SWEET
+    ; balance: 125278.18 SEK
+    ; CSV: 2022-05-05,2022-05-05,5484511461,SWEET,-38.9SEK,125278.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484511461
+    ; UUID: b8aedd4eb01060b41ddb21532df026a31b70770c
+    Expenses:Unknown                        38.90SEK
+    5001 03 974 26
+
+2022/05/05 * BOOKABOAT NO
+    ; balance: 125317.08 SEK
+    ; CSV: 2022-05-05,2022-05-05,5490990789,BOOKABOAT NO,-1990.0SEK,125317.08 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 7f0b7b03b65e81526e2edf9989b1dbe2cb8a0983
+    Expenses:Unknown                      1990.00SEK
+    5001 03 974 26
+
+2022/05/04 * 46720240908
+    ; balance: 127307.08 SEK
+    ; CSV: 2022-05-04,2022-05-04,5490990789,46720240908,-100.0SEK,127307.08 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 35ad409daa4f9e64824c9b9d823a19215d21f212
+    Expenses:Unknown                       100.00SEK
+    5001 03 974 26
+
+2022/05/03 * HALLON
+    ; balance: 127407.08 SEK
+    ; CSV: 2022-05-03,2022-05-03,5484535677,HALLON,-114.95SEK,127407.08 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484535677
+    ; UUID: b96baee1ce5fccf70d2f9cc4264609fb8a2647a0
+    Expenses:Unknown                       114.95SEK
+    5001 03 974 26
+
+2022/05/03 * COOP NOBELTO
+    ; balance: 127522.03 SEK
+    ; CSV: 2022-05-03,2022-05-03,5484578049,COOP NOBELTO,-105.8SEK,127522.03 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484578049
+    ; UUID: a367f38f949d0dcfbb90dc61594fb21628aba2b4
+    Expenses:Unknown                       105.80SEK
+    5001 03 974 26
+
+2022/05/03 * PIZZAHOUSE O
+    ; balance: 127627.83 SEK
+    ; CSV: 2022-05-03,2022-05-03,5484124204,PIZZAHOUSE O,-79.0SEK,127627.83 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484124204
+    ; UUID: aa9234cba9af810da75757017bb4286454d24463
+    Expenses:Unknown                        79.00SEK
+    5001 03 974 26
+
+2022/05/03 * MAJ
+    ; balance: 127706.83 SEK
+    ; CSV: 2022-05-03,2022-05-03,5490990007,MAJ,-5000.0SEK,127706.83 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990007
+    ; UUID: d78811120578d8e0387786dfa538311404b45cb5
+    Expenses:Unknown                      5000.00SEK
+    5001 03 974 26
+
+2022/05/01 * PIZZERIA PER
+    ; balance: 132706.83 SEK
+    ; CSV: 2022-05-02,2022-05-01,5484161106,PIZZERIA PER,-77.0SEK,132706.83 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484161106
+    ; UUID: 1fd61752fb34beaacb7465cdfc6d9760acc234ea
+    Expenses:Unknown                        77.00SEK
+    5001 03 974 26
+
+2022/04/29 * M SWEDEN
+    ; balance: 132783.83 SEK
+    ; CSV: 2022-04-29,2022-04-29,5484016888,M SWEDEN,-160.59SEK,132783.83 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484016888
+    ; UUID: 374714dfd118e0579166016002ffb31be5b228d9
+    Expenses:Unknown                       160.59SEK
+    5001 03 974 26
+
+2022/04/29 * M SWEDEN
+    ; balance: 132944.42 SEK
+    ; CSV: 2022-04-29,2022-04-29,5484016866,M SWEDEN,-370.0SEK,132944.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484016866
+    ; UUID: 5d018891ef9e88571da6eaea45bd4cbf96f2a68d
+    Expenses:Unknown                       370.00SEK
+    5001 03 974 26
+
+2022/04/29 * IKEA-SVAGERT
+    ; balance: 133314.42 SEK
+    ; CSV: 2022-04-29,2022-04-29,5484666644,IKEA-SVAGERT,-10.0SEK,133314.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484666644
+    ; UUID: fb947b1082310f2eebc0e460c56eb433ff5d60f6
+    Expenses:Unknown                        10.00SEK
+    5001 03 974 26
+
+2022/04/29 * IKEA-SVAGERT
+    ; balance: 133324.42 SEK
+    ; CSV: 2022-04-29,2022-04-29,5484666553,IKEA-SVAGERT,-297.0SEK,133324.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484666553
+    ; UUID: bfb60cb7e0818984676be26e5cb543842a3291c0
+    Expenses:Unknown                       297.00SEK
+    5001 03 974 26
+
+2022/04/29 * IKEA-SVAGERT
+    ; balance: 133621.42 SEK
+    ; CSV: 2022-04-29,2022-04-29,5484666514,IKEA-SVAGERT,-1713.0SEK,133621.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484666514
+    ; UUID: a4614751f7b61aff864758989f3846aa2317fbc3
+    Expenses:Unknown                      1713.00SEK
+    5001 03 974 26
+
+2022/04/29 * AVANZA
+    ; balance: 135334.42 SEK
+    ; CSV: 2022-04-29,2022-04-29,9550223828,AVANZA,105648.74SEK,135334.42 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9550223828
+    ; UUID: a89cd1715bfdca0474a5cd7680040a00b7063519
+    Expenses:Unknown                    -105648.74SEK
+    5001 03 974 26
+
+2022/04/29 * HSB MALMÖ EK FÖR
+    ; balance: 29685.68 SEK
+    ; CSV: 2022-04-29,2022-04-29,2103900372S,HSB MALMÖ EK FÖR,-5591.0SEK,29685.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2103900372S
+    ; UUID: ebdfca756f90ccf7cb259c420623813239f7cd36
+    Expenses:Unknown                      5591.00SEK
+    5001 03 974 26
+
+2022/04/29 * BRF MÄSTER HENRIK
+    ; balance: 35276.68 SEK
+    ; CSV: 2022-04-29,2022-04-29,2073900368S,BRF MÄSTER HENRIK,-3824.0SEK,35276.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2073900368S
+    ; UUID: 9363c891464e5585705de51350ff67539cf0a7dc
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/04/28 * ENKLA VARDAG
+    ; balance: 39100.68 SEK
+    ; CSV: 2022-04-28,2022-04-28,5490990733,ENKLA VARDAG,-50.0SEK,39100.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: b814d55bda428c468684732fae73443369b0cfc2
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/04/28 * SV INGENJ
+    ; balance: 39150.68 SEK
+    ; CSV: 2022-04-28,2022-04-28,9900001100,SV INGENJ,-240.0SEK,39150.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: c9a1e5b8ae070027d03a3c2decf60b44340055e3
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/04/28 * SBAB BANK AB
+    ; balance: 39390.68 SEK
+    ; CSV: 2022-04-28,2022-04-28,2109900376S,SBAB BANK AB,-2156.0SEK,39390.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2109900376S
+    ; UUID: bc832abe8f4a581e91484aa40aebd8ffb89cb5c8
+    Expenses:Unknown                      2156.00SEK
+    5001 03 974 26
+
+2022/04/28 * IKANO BANK
+    ; balance: 41546.68 SEK
+    ; CSV: 2022-04-28,2022-04-28,2117900379S,IKANO BANK,-2557.0SEK,41546.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2117900379S
+    ; UUID: 1ecf16863fb6515c7427b7528236dbd34d3c8209
+    Expenses:Unknown                      2557.00SEK
+    5001 03 974 26
+
+2022/04/28 * SEB KORT BANK AB
+    ; balance: 44103.68 SEK
+    ; CSV: 2022-04-28,2022-04-28,2117900378S,SEB KORT BANK AB,-38691.5SEK,44103.68 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2117900378S
+    ; UUID: be1497c4b828e9f0bc295ab46a5430295dce345a
+    Expenses:Unknown                     38691.50SEK
+    5001 03 974 26
+
+2022/04/28 * SBAB
+    ; balance: 82795.18 SEK
+    ; CSV: 2022-04-28,2022-04-28,2109900377S,SBAB,-6932.0SEK,82795.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2109900377S
+    ; UUID: 97e865b982d837a68d534279c084236e3ab911a3
+    Expenses:Unknown                      6932.00SEK
+    5001 03 974 26
+
+2022/04/28 * PAYEX
+    ; balance: 89727.18 SEK
+    ; CSV: 2022-04-28,2022-04-28,2109900375S,PAYEX,-2350.0SEK,89727.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2109900375S
+    ; UUID: c78af534e976d72d744ccef8e78bdcda1a2bb02e
+    Expenses:Unknown                      2350.00SEK
+    5001 03 974 26
+
+2022/04/27 * 46720240908
+    ; balance: 92077.18 SEK
+    ; CSV: 2022-04-27,2022-04-27,5490990789,46720240908,-320.0SEK,92077.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 5b7203b2078b80b1c263c0834a0d9c65fbda9ed0
+    Expenses:Unknown                       320.00SEK
+    5001 03 974 26
+
+2022/04/27 * BARNFONDEN
+    ; balance: 92397.18 SEK
+    ; CSV: 2022-04-27,2022-04-27,9900003100,BARNFONDEN,-250.0SEK,92397.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 8fe8cb403b4b59d26adf7ab98e1b40bd232d5885
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/04/26 * ICA NARA TRI
+    ; balance: 92647.18 SEK
+    ; CSV: 2022-04-26,2022-04-26,5484580295,ICA NARA TRI,-10.0SEK,92647.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484580295
+    ; UUID: c99f65a50cc687c6231ae855d66817d06adc16a7
+    Expenses:Unknown                        10.00SEK
+    5001 03 974 26
+
+2022/04/25 * COOP NORRA P
+    ; balance: 92657.18 SEK
+    ; CSV: 2022-04-25,2022-04-25,5484783195,COOP NORRA P,-185.46SEK,92657.18 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484783195
+    ; UUID: 23dbb1c466762acc854799e5085f8aeae20a3df1
+    Expenses:Unknown                       185.46SEK
+    5001 03 974 26
+
+2022/04/24 * TIER 2 2022-
+    ; balance: 92842.64 SEK
+    ; CSV: 2022-04-25,2022-04-24,5484107727,TIER 2 2022-,-39.0SEK,92842.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484107727
+    ; UUID: 9bc36e862c8b09289137d5b810a61d0d02e19c61
+    Expenses:Unknown                        39.00SEK
+    5001 03 974 26
+
+2022/04/23 * 1231286244
+    ; balance: 92881.64 SEK
+    ; CSV: 2022-04-25,2022-04-23,5490990789,1231286244,-25.0SEK,92881.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: d817465dee22b52040a5612b79db57efb4f8cd94
+    Expenses:Unknown                        25.00SEK
+    5001 03 974 26
+
+2022/04/22 * ZAVER
+    ; balance: 92906.64 SEK
+    ; CSV: 2022-04-22,2022-04-22,2109900374S,ZAVER,-12110.0SEK,92906.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2109900374S
+    ; UUID: eebdb4b638b74ad0efdb26b885a75510e06dbdc8
+    Expenses:Unknown                     12110.00SEK
+    5001 03 974 26
+
+2022/04/19 * REKAS BURGER
+    ; balance: 105016.64 SEK
+    ; CSV: 2022-04-19,2022-04-19,5484648893,REKAS BURGER,-240.0SEK,105016.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484648893
+    ; UUID: ccc576947a9afc7995f302bd177519d6c1a7cd19
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/04/19 * ZTL KAFFEBAR
+    ; balance: 105256.64 SEK
+    ; CSV: 2022-04-19,2022-04-19,5484645720,ZTL KAFFEBAR,-73.0SEK,105256.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484645720
+    ; UUID: 89bef03c232ddf68944959505226141c4c81a813
+    Expenses:Unknown                        73.00SEK
+    5001 03 974 26
+
+2022/04/18 * BLOCKET AB
+    ; balance: 105329.64 SEK
+    ; CSV: 2022-04-19,2022-04-18,5490990789,BLOCKET AB,-30.0SEK,105329.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990789
+    ; UUID: 5c3f99d8bf2513574e91c036ef901abad9465d2c
+    Expenses:Unknown                        30.00SEK
+    5001 03 974 26
+
+2022/04/15 * ESPRESSO H 1
+    ; balance: 105359.64 SEK
+    ; CSV: 2022-04-19,2022-04-15,5484030706,ESPRESSO H 1,-49.0SEK,105359.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484030706
+    ; UUID: bb44ff6580ab127c25ec194e87593ac0c52898ac
+    Expenses:Unknown                        49.00SEK
+    5001 03 974 26
+
+2022/04/15 * BASTARD BURG
+    ; balance: 105408.64 SEK
+    ; CSV: 2022-04-19,2022-04-15,5484765356,BASTARD BURG,-248.0SEK,105408.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484765356
+    ; UUID: 1def26d5d0d479587f56f5864a7547f2fe1a0796
+    Expenses:Unknown                       248.00SEK
+    5001 03 974 26
+
+2022/04/14 * HSB MALMÖ EK FÖR
+    ; balance: 105656.64 SEK
+    ; CSV: 2022-04-14,2022-04-14,2103900373S,HSB MALMÖ EK FÖR,-6799.0SEK,105656.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2103900373S
+    ; UUID: cd466ed61691a202199a42238766fdb04619f6d2
+    Expenses:Unknown                      6799.00SEK
+    5001 03 974 26
+
+2022/04/13 * AVANZA
+    ; balance: 112455.64 SEK
+    ; CSV: 2022-04-13,2022-04-13,9550983928,AVANZA,100000.0SEK,112455.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9550983928
+    ; UUID: 3ab4cc4b6a2a5278c0e44dc2d92d997953532fa5
+    Expenses:Unknown                    -100000.00SEK
+    5001 03 974 26
+
+2022/04/07 * MIDO QUALITY
+    ; balance: 12455.64 SEK
+    ; CSV: 2022-04-07,2022-04-07,5484063930,MIDO QUALITY,-15.0SEK,12455.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484063930
+    ; UUID: 32e388d1ebad81b9d8392a59039f7a6611a9af11
+    Expenses:Unknown                        15.00SEK
+    5001 03 974 26
+
+2022/04/06 * HAPPYORDER I
+    ; balance: 12470.64 SEK
+    ; CSV: 2022-04-06,2022-04-06,5484509148,HAPPYORDER I,-135.0SEK,12470.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484509148
+    ; UUID: 92c3e2f8a7373a0f377219cd48353b21331bc7d6
+    Expenses:Unknown                       135.00SEK
+    5001 03 974 26
+
+2022/04/04 * COOP NORRA P
+    ; balance: 12605.64 SEK
+    ; CSV: 2022-04-04,2022-04-04,5484601921,COOP NORRA P,-82.85SEK,12605.64 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484601921
+    ; UUID: 3c3d4f37a897a95d34827a930850f420a8de39f5
+    Expenses:Unknown                        82.85SEK
+    5001 03 974 26
+
+2022/04/04 * KLATTERCENTR
+    ; balance: 12688.49 SEK
+    ; CSV: 2022-04-04,2022-04-04,5484558193,KLATTERCENTR,-1500.0SEK,12688.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484558193
+    ; UUID: 40517666b41535bb4ba13439a9c0469bfa69fc55
+    Expenses:Unknown                      1500.00SEK
+    5001 03 974 26
+
+2022/04/04 * SBAB
+    ; balance: 14188.49 SEK
+    ; CSV: 2022-04-04,2022-04-04,5490969250,SBAB,2000.0SEK,14188.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490969250
+    ; UUID: 0b15c25a283003ad417c94bedb8c374a18d09575
+    Expenses:Unknown                     -2000.00SEK
+    5001 03 974 26
+
+2022/04/04 * PAYEX
+    ; balance: 12188.49 SEK
+    ; CSV: 2022-04-04,2022-04-04,2091900371S,PAYEX,-2347.57SEK,12188.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2091900371S
+    ; UUID: 7f50d5eef6b48a9d3ad8d0453faafcc38ba84570
+    Expenses:Unknown                      2347.57SEK
+    5001 03 974 26
+
+2022/04/02 * ÖPPEN FAMN S
+    ; balance: 14536.06 SEK
+    ; CSV: 2022-04-04,2022-04-02,5484560193,ÖPPEN FAMN S,-275.0SEK,14536.06 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484560193
+    ; UUID: f7a13b5c27ab788df13f2a652766ba60b953a7be
+    Expenses:Unknown                       275.00SEK
+    5001 03 974 26
+
+2022/04/02 * HALLON SE
+    ; balance: 14811.06 SEK
+    ; CSV: 2022-04-04,2022-04-02,5484408560,HALLON SE,-99.0SEK,14811.06 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484408560
+    ; UUID: b429015612d566fa99a763edc36da7200bf535e4
+    Expenses:Unknown                        99.00SEK
+    5001 03 974 26
+
+2022/04/01 * BUREK HOUSE
+    ; balance: 14910.06 SEK
+    ; CSV: 2022-04-01,2022-04-01,5484472599,BUREK HOUSE,-79.0SEK,14910.06 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484472599
+    ; UUID: 9cbda4a70bde47f7da74289e9d39fbe0c9d2e60c
+    Expenses:Unknown                        79.00SEK
+    5001 03 974 26
+
+2022/03/31 * POPEYE GRILL
+    ; balance: 14989.06 SEK
+    ; CSV: 2022-03-31,2022-03-31,5484362137,POPEYE GRILL,-60.0SEK,14989.06 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484362137
+    ; UUID: 860a6e27605ca2c284e016a9d96f815e068e14f1
+    Expenses:Unknown                        60.00SEK
+    5001 03 974 26
+
+2022/03/31 * BRF MÄSTER HENRIK
+    ; balance: 15049.06 SEK
+    ; CSV: 2022-03-31,2022-03-31,2073900369S,BRF MÄSTER HENRIK,-3824.0SEK,15049.06 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2073900369S
+    ; UUID: f510d401ec0f295bf319a17362f9163d940048a2
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/03/30 * COOP NORRA P
+    ; balance: 18873.06 SEK
+    ; CSV: 2022-03-30,2022-03-30,5484042752,COOP NORRA P,-4.95SEK,18873.06 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484042752
+    ; UUID: 5d06d8f00013187ea07e6c6f36d113567b874805
+    Expenses:Unknown                         4.95SEK
+    5001 03 974 26
+
+2022/03/30 * ENKLA VARDAG
+    ; balance: 18878.01 SEK
+    ; CSV: 2022-03-30,2022-03-30,5490990733,ENKLA VARDAG,-35.0SEK,18878.01 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: bd01f057270bff35cfbf61c75c14d673484c87d2
+    Expenses:Unknown                        35.00SEK
+    5001 03 974 26
+
+2022/03/30 * SV INGENJ
+    ; balance: 18913.01 SEK
+    ; CSV: 2022-03-30,2022-03-30,9900001100,SV INGENJ,-240.0SEK,18913.01 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: c1884e2dc7548077991ae95d92e90397d1d80e26
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/03/28 * WEUM GAS AB
+    ; balance: 19153.01 SEK
+    ; CSV: 2022-03-28,2022-03-28,9900003100,WEUM GAS AB,-309.0SEK,19153.01 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: f40c2423107c35fe73d88056c8bd4b74794379aa
+    Expenses:Unknown                       309.00SEK
+    5001 03 974 26
+
+2022/03/28 * BARNFONDEN
+    ; balance: 19462.01 SEK
+    ; CSV: 2022-03-28,2022-03-28,9900003100,BARNFONDEN,-250.0SEK,19462.01 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 4cbe9b9c4ced8f6d0957d00612762c940b472b94
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/03/28 * IKANO BANK
+    ; balance: 19712.01 SEK
+    ; CSV: 2022-03-28,2022-03-28,2073900367S,IKANO BANK,-2250.0SEK,19712.01 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2073900367S
+    ; UUID: ebcff8c6185c7e7c38c1e7f1dcf0572a68c2376a
+    Expenses:Unknown                      2250.00SEK
+    5001 03 974 26
+
+2022/03/24 * COOP NORRA P
+    ; balance: 21962.01 SEK
+    ; CSV: 2022-03-24,2022-03-24,5484472713,COOP NORRA P,-37.95SEK,21962.01 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484472713
+    ; UUID: 43e293f96ac6ede5529b289cb39a4a70017892e1
+    Expenses:Unknown                        37.95SEK
+    5001 03 974 26
+
+2022/03/21 * MORMORS BAGE
+    ; balance: 21999.96 SEK
+    ; CSV: 2022-03-21,2022-03-21,5484588212,MORMORS BAGE,-50.0SEK,21999.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484588212
+    ; UUID: fa26ed84480e09619af3bd11b96ae85abb0c0ffa
+    Expenses:Unknown                        50.00SEK
+    5001 03 974 26
+
+2022/03/21 * COOP NORRA P
+    ; balance: 22049.96 SEK
+    ; CSV: 2022-03-21,2022-03-21,5484295770,COOP NORRA P,-28.0SEK,22049.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484295770
+    ; UUID: 054480b390fb4a6912e998f9273187b2c85c6a28
+    Expenses:Unknown                        28.00SEK
+    5001 03 974 26
+
+2022/03/20 * BABYLON GRIL
+    ; balance: 22077.96 SEK
+    ; CSV: 2022-03-21,2022-03-20,5484809671,BABYLON GRIL,-90.0SEK,22077.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484809671
+    ; UUID: 92ff27da441c98250b3860da3235fa3002c23af5
+    Expenses:Unknown                        90.00SEK
+    5001 03 974 26
+
+2022/03/18 * HEDVIGSDALSG
+    ; balance: 22167.96 SEK
+    ; CSV: 2022-03-18,2022-03-18,5484679029,HEDVIGSDALSG,-92.0SEK,22167.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484679029
+    ; UUID: 77ba159d59bf426856d57704bd179287318f9f33
+    Expenses:Unknown                        92.00SEK
+    5001 03 974 26
+
+2022/03/17 * SWEET
+    ; balance: 22259.96 SEK
+    ; CSV: 2022-03-17,2022-03-17,5484083623,SWEET,-15.0SEK,22259.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484083623
+    ; UUID: 486ab19c0a161e13f705d36fd9fb9dd1b6d917f5
+    Expenses:Unknown                        15.00SEK
+    5001 03 974 26
+
+2022/03/17 * COOP NORRA P
+    ; balance: 22274.96 SEK
+    ; CSV: 2022-03-17,2022-03-17,5484042204,COOP NORRA P,-28.0SEK,22274.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484042204
+    ; UUID: 885d5c55be5b135707b5ec8a7ad475a0c1d4839f
+    Expenses:Unknown                        28.00SEK
+    5001 03 974 26
+
+2022/03/16 * IZ  CAFE NUM
+    ; balance: 22302.96 SEK
+    ; CSV: 2022-03-16,2022-03-16,5484699340,IZ  CAFE NUM,-35.0SEK,22302.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484699340
+    ; UUID: 63c91be644bb856366d0ab1f45fdaaef2a87cb9a
+    Expenses:Unknown                        35.00SEK
+    5001 03 974 26
+
+2022/03/15 * AMAZONMKTPLC
+    ; balance: 22337.96 SEK
+    ; CSV: 2022-03-15,2022-03-15,5484556066,AMAZONMKTPLC,-551.99SEK,22337.96 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484556066
+    ; UUID: fdb3a285e4e327f84c661828ab4f97229dab41c1
+    Expenses:Unknown                       551.99SEK
+    5001 03 974 26
+
+2022/03/15 * 7-ELEVEN 421
+    ; balance: 22889.95 SEK
+    ; CSV: 2022-03-15,2022-03-15,5484795486,7-ELEVEN 421,-29.0SEK,22889.95 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484795486
+    ; UUID: 181b915e9b7933c248fa206c91c78a2991aaebf6
+    Expenses:Unknown                        29.00SEK
+    5001 03 974 26
+
+2022/03/15 * 7-ELEVEN 421
+    ; balance: 22918.95 SEK
+    ; CSV: 2022-03-15,2022-03-15,5484795485,7-ELEVEN 421,-32.0SEK,22918.95 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484795485
+    ; UUID: 6e511f84b32952631b521c0deef22a0d17ed429f
+    Expenses:Unknown                        32.00SEK
+    5001 03 974 26
+
+2022/03/15 * 7-ELEVEN
+    ; balance: 22950.95 SEK
+    ; CSV: 2022-03-15,2022-03-15,5484793408,7-ELEVEN,-30.0SEK,22950.95 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484793408
+    ; UUID: 399b898789d8de8d2be6e0689ffc4d7ba8e1c1f4
+    Expenses:Unknown                        30.00SEK
+    5001 03 974 26
+
+2022/03/15 * 92729705821
+    ; balance: 22980.95 SEK
+    ; CSV: 2022-03-15,2022-03-15,5490990007,92729705821,-2500.0SEK,22980.95 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990007
+    ; UUID: a9a1c1ebecd6e67a2ee19d21ed27f307439d8497
+    Expenses:Unknown                      2500.00SEK
+    5001 03 974 26
+
+2022/03/14 * COOP NORRA P
+    ; balance: 25480.95 SEK
+    ; CSV: 2022-03-14,2022-03-14,5484073188,COOP NORRA P,-122.8SEK,25480.95 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484073188
+    ; UUID: 5ffb3012369ec93895303499ea40ceab783d7723
+    Expenses:Unknown                       122.80SEK
+    5001 03 974 26
+
+2022/03/13 * MORMORS BAGE
+    ; balance: 25603.75 SEK
+    ; CSV: 2022-03-14,2022-03-13,5484242812,MORMORS BAGE,-60.0SEK,25603.75 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484242812
+    ; UUID: f169d08ae1cca7b15a7de4627110feff99ca45f2
+    Expenses:Unknown                        60.00SEK
+    5001 03 974 26
+
+2022/03/13 * MRS SAIGON R
+    ; balance: 25663.75 SEK
+    ; CSV: 2022-03-14,2022-03-13,5484201535,MRS SAIGON R,-240.0SEK,25663.75 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484201535
+    ; UUID: 1e1d9b5cb635e3dafd558e08bd09c749909f5ddc
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/03/07 * ICA NARA TRI
+    ; balance: 25903.75 SEK
+    ; CSV: 2022-03-07,2022-03-07,5484330188,ICA NARA TRI,-25.0SEK,25903.75 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484330188
+    ; UUID: 4ae8de7574c59e3ae25dbe7438f384b062792399
+    Expenses:Unknown                        25.00SEK
+    5001 03 974 26
+
+2022/03/07 * ICA NARA TRI
+    ; balance: 25928.75 SEK
+    ; CSV: 2022-03-07,2022-03-07,5484330187,ICA NARA TRI,-9.9SEK,25928.75 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484330187
+    ; UUID: d1f67bf10b3c36e5351e6e48d66fd3a9b8a3f1ff
+    Expenses:Unknown                         9.90SEK
+    5001 03 974 26
+
+2022/03/04 * HALLON SE
+    ; balance: 25938.65 SEK
+    ; CSV: 2022-03-04,2022-03-04,5484397792,HALLON SE,-99.6SEK,25938.65 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484397792
+    ; UUID: c60df4192507e65ad2673c24fd097c1430a145d7
+    Expenses:Unknown                        99.60SEK
+    5001 03 974 26
+
+2022/03/04 * H04462678977
+    ; balance: 26038.25 SEK
+    ; CSV: 2022-03-04,2022-03-04,5841990687,H04462678977,22000.0SEK,26038.25 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5841990687
+    ; UUID: af3be15e8bce32645cf5dd27e3544b0dc948b4b0
+    Expenses:Unknown                    -22000.00SEK
+    5001 03 974 26
+
+2022/03/03 * COOP NORRA P
+    ; balance: 4038.25 SEK
+    ; CSV: 2022-03-03,2022-03-03,5484738468,COOP NORRA P,-9.95SEK,4038.25 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484738468
+    ; UUID: 8b37e4cfd271f29828d99e7aa27396dfecc72034
+    Expenses:Unknown                         9.95SEK
+    5001 03 974 26
+
+2022/03/02 * 855-237-7875
+    ; balance: 4048.2 SEK
+    ; CSV: 2022-03-02,2022-03-02,5484714686,855-237-7875,-218.49SEK,4048.2 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484714686
+    ; UUID: b26b586f622d5dd795b02303f7a95aab3e1f6086
+    Expenses:Unknown                       218.49SEK
+    5001 03 974 26
+
+2022/02/28 * BARNFONDEN
+    ; balance: 4266.69 SEK
+    ; CSV: 2022-02-28,2022-02-28,9900003100,BARNFONDEN,-250.0SEK,4266.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: 4616a0ca2f82fd0451e2d7c96e69917a059fa06f
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/02/28 * BRF MÄSTER HENRIK
+    ; balance: 4516.69 SEK
+    ; CSV: 2022-02-28,2022-02-28,2040900366S,BRF MÄSTER HENRIK,-3824.0SEK,4516.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2040900366S
+    ; UUID: de523940ecf20b7c374788bcdd9a44cafb4b086e
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/02/27 * MORMORS BAGE
+    ; balance: 8340.69 SEK
+    ; CSV: 2022-02-28,2022-02-27,5484016752,MORMORS BAGE,-49.0SEK,8340.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484016752
+    ; UUID: 9ece1ffd168d9cfedd6c0a40abe172523ceea99d
+    Expenses:Unknown                        49.00SEK
+    5001 03 974 26
+
+2022/02/26 * SIBYLLA MÖLL
+    ; balance: 8389.69 SEK
+    ; CSV: 2022-02-28,2022-02-26,5484378570,SIBYLLA MÖLL,-85.0SEK,8389.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484378570
+    ; UUID: e4a17a0c581ec56cb3ed85f082c2dbc1697ea149
+    Expenses:Unknown                        85.00SEK
+    5001 03 974 26
+
+2022/02/26 * GATEAU BAGER
+    ; balance: 8474.69 SEK
+    ; CSV: 2022-02-28,2022-02-26,5484284234,GATEAU BAGER,-116.0SEK,8474.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484284234
+    ; UUID: 89c81e901580fac2122d68b7fbe1a4ec0a7c0275
+    Expenses:Unknown                       116.00SEK
+    5001 03 974 26
+
+2022/02/25 * ENKLA VARDAG
+    ; balance: 8590.69 SEK
+    ; CSV: 2022-02-25,2022-02-25,5490990733,ENKLA VARDAG,-35.0SEK,8590.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: c9c54c5fda1dbc82a6d93c143db15fdbdd1f7f9b
+    Expenses:Unknown                        35.00SEK
+    5001 03 974 26
+
+2022/02/25 * SV INGENJ
+    ; balance: 8625.69 SEK
+    ; CSV: 2022-02-25,2022-02-25,9900001100,SV INGENJ,-240.0SEK,8625.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: 37fb325059b41426b5e794b5648ca41511d15746
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/02/24 * ICA NARA TRI
+    ; balance: 8865.69 SEK
+    ; CSV: 2022-02-24,2022-02-24,5484052861,ICA NARA TRI,-25.0SEK,8865.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484052861
+    ; UUID: 9f4b927128f8d2059d14c5d1a492c3332eca13cc
+    Expenses:Unknown                        25.00SEK
+    5001 03 974 26
+
+2022/02/21 * COFFEE SQUAR
+    ; balance: 8890.69 SEK
+    ; CSV: 2022-02-21,2022-02-21,5484764908,COFFEE SQUAR,-58.0SEK,8890.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484764908
+    ; UUID: e9c923a4c5f37cbdedf12dfd25749168faa224ee
+    Expenses:Unknown                        58.00SEK
+    5001 03 974 26
+
+2022/02/19 * MALMO STADSA
+    ; balance: 8948.69 SEK
+    ; CSV: 2022-02-21,2022-02-19,5484391057,MALMO STADSA,-25.0SEK,8948.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484391057
+    ; UUID: 08e431b018e96f1c125d220da506eb17e2de10f5
+    Expenses:Unknown                        25.00SEK
+    5001 03 974 26
+
+2022/02/11 * SARA LIVS
+    ; balance: 8973.69 SEK
+    ; CSV: 2022-02-11,2022-02-11,5484047153,SARA LIVS,-6.0SEK,8973.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484047153
+    ; UUID: f0c01c575c21c02796a8ff0b2db7e6d2f4d73fd0
+    Expenses:Unknown                         6.00SEK
+    5001 03 974 26
+
+2022/02/10 * H10461105439
+    ; balance: 8979.69 SEK
+    ; CSV: 2022-02-10,2022-02-10,5841990687,H10461105439,5000.0SEK,8979.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5841990687
+    ; UUID: 760ace8b06ebf0fd48b6f53f32e21a515d47d301
+    Expenses:Unknown                     -5000.00SEK
+    5001 03 974 26
+
+2022/02/08 * ICA SUPERMAR
+    ; balance: 3979.69 SEK
+    ; CSV: 2022-02-08,2022-02-08,5484060516,ICA SUPERMAR,-17.0SEK,3979.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484060516
+    ; UUID: 7212332b3d9fe90bc6c8235ea8da3b8a1f27522f
+    Expenses:Unknown                        17.00SEK
+    5001 03 974 26
+
+2022/02/04 * HALLON SE
+    ; balance: 3996.69 SEK
+    ; CSV: 2022-02-04,2022-02-04,5484232360,HALLON SE,-99.0SEK,3996.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484232360
+    ; UUID: 5a9ced7eba998703dc66527e9ef89a570548df8f
+    Expenses:Unknown                        99.00SEK
+    5001 03 974 26
+
+2022/02/04 * COOP NORRA P
+    ; balance: 4095.69 SEK
+    ; CSV: 2022-02-04,2022-02-04,5484684107,COOP NORRA P,-96.14SEK,4095.69 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484684107
+    ; UUID: b1b21da91c0b3f1bc7d555ebaceaedfcafda05b5
+    Expenses:Unknown                        96.14SEK
+    5001 03 974 26
+
+2022/01/31 * H31460407976
+    ; balance: 4191.83 SEK
+    ; CSV: 2022-01-31,2022-01-31,5841990687,H31460407976,3844.29SEK,4191.83 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5841990687
+    ; UUID: fad8bbab204c5c6f17095cd4df775acb53172fcc
+    Expenses:Unknown                     -3844.29SEK
+    5001 03 974 26
+
+2022/01/31 * BRF MÄSTER HENRIK
+    ; balance: 347.54 SEK
+    ; CSV: 2022-01-31,2022-01-31,2031900365S,BRF MÄSTER HENRIK,-3824.0SEK,347.54 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2031900365S
+    ; UUID: 354707235ec8e6a9738c59782c5f2771386a310c
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/01/28 * ICA SUPERMAR
+    ; balance: 4171.54 SEK
+    ; CSV: 2022-01-28,2022-01-28,5484429591,ICA SUPERMAR,-24.0SEK,4171.54 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484429591
+    ; UUID: 1cbaeddf9633fe20e588956e8688c6a3f443ea97
+    Expenses:Unknown                        24.00SEK
+    5001 03 974 26
+
+2022/01/28 * ENKLA VARDAG
+    ; balance: 4195.54 SEK
+    ; CSV: 2022-01-28,2022-01-28,5490990733,ENKLA VARDAG,-35.0SEK,4195.54 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5490990733
+    ; UUID: a8c70e832ec79b0077fb4918bfd34d5640d93602
+    Expenses:Unknown                        35.00SEK
+    5001 03 974 26
+
+2022/01/28 * SV INGENJ
+    ; balance: 4230.54 SEK
+    ; CSV: 2022-01-28,2022-01-28,9900001100,SV INGENJ,-240.0SEK,4230.54 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900001100
+    ; UUID: 9ba48a9140ba563438ca6aff348da322957e3640
+    Expenses:Unknown                       240.00SEK
+    5001 03 974 26
+
+2022/01/27 * COOP NORRA P
+    ; balance: 4470.54 SEK
+    ; CSV: 2022-01-27,2022-01-27,5484049166,COOP NORRA P,-6.95SEK,4470.54 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484049166
+    ; UUID: 6ad3243f918ed9bbb2ed47d336a8741b29cff922
+    Expenses:Unknown                         6.95SEK
+    5001 03 974 26
+
+2022/01/27 * BARNFONDEN
+    ; balance: 4477.49 SEK
+    ; CSV: 2022-01-27,2022-01-27,9900003100,BARNFONDEN,-250.0SEK,4477.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 9900003100
+    ; UUID: a1bdf658cda70f4a88395c1695cea7f3df081b06
+    Expenses:Unknown                       250.00SEK
+    5001 03 974 26
+
+2022/01/21 * SÖDERBLOMMOR
+    ; balance: 4727.49 SEK
+    ; CSV: 2022-01-21,2022-01-21,5484776638,SÖDERBLOMMOR,-282.0SEK,4727.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484776638
+    ; UUID: e3d0c2008d6e9d25ab53b97442b9e60649a69da7
+    Expenses:Unknown                       282.00SEK
+    5001 03 974 26
+
+2022/01/21 * GATEAU BAGER
+    ; balance: 5009.49 SEK
+    ; CSV: 2022-01-21,2022-01-21,5484732352,GATEAU BAGER,-48.0SEK,5009.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484732352
+    ; UUID: 77b393b907552a582981573d0547f776ebe0ae00
+    Expenses:Unknown                        48.00SEK
+    5001 03 974 26
+
+2022/01/18 * COOP NORRA P
+    ; balance: 5057.49 SEK
+    ; CSV: 2022-01-18,2022-01-18,5484873148,COOP NORRA P,-4.5SEK,5057.49 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484873148
+    ; UUID: 0d7e4311b3c185a6ae7472e8062dd4775248136d
+    Expenses:Unknown                         4.50SEK
+    5001 03 974 26
+
+2022/01/17 * GATEAU BAGER
+    ; balance: 5061.99 SEK
+    ; CSV: 2022-01-17,2022-01-17,5484780010,GATEAU BAGER,-67.0SEK,5061.99 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484780010
+    ; UUID: 10a67c7edf3a2ef1aac9be0c5617086b546b43a2
+    Expenses:Unknown                        67.00SEK
+    5001 03 974 26
+
+2022/01/11 * AMAZONMKTPLC
+    ; balance: 5128.99 SEK
+    ; CSV: 2022-01-11,2022-01-11,5484545939,AMAZONMKTPLC,-263.18SEK,5128.99 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484545939
+    ; UUID: 16fa30dd8bc2f02052c33a1b0e29a10cd2878c68
+    Expenses:Unknown                       263.18SEK
+    5001 03 974 26
+
+2022/01/09 * COOP NORRA P
+    ; balance: 5392.17 SEK
+    ; CSV: 2022-01-10,2022-01-09,5484385137,COOP NORRA P,-53.45SEK,5392.17 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484385137
+    ; UUID: 7c20588458f62e2487e5ae9eedc1066e94018043
+    Expenses:Unknown                        53.45SEK
+    5001 03 974 26
+
+2022/01/07 * BRF MÄSTER HENRIK
+    ; balance: 5445.62 SEK
+    ; CSV: 2022-01-07,2022-01-07,2005900364S,BRF MÄSTER HENRIK,-3824.0SEK,5445.62 SEK
+    ; Imported: 2022/08/23
+    ; transid: 2005900364S
+    ; UUID: 0d5e9103382b5aa5e92dbb77650c4b2a0487b2a9
+    Expenses:Unknown                      3824.00SEK
+    5001 03 974 26
+
+2022/01/03 * HALLON SE
+    ; balance: 9269.62 SEK
+    ; CSV: 2022-01-03,2022-01-03,5484662663,HALLON SE,-118.9SEK,9269.62 SEK
+    ; Imported: 2022/08/23
+    ; transid: 5484662663
+    ; UUID: fbe2f109e09238559e117270e87985be8cd3490a
+    Expenses:Unknown                       118.90SEK
+    5001 03 974 26
