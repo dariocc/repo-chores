@@ -1,6 +1,6 @@
-# Double Entry Bookeeping Like a ~~Pro~~ Dev
+# Double Entry Bookkeeping Like a ~~Pro~~ Dev
 
-Tracking expenses is not one of my favourite activities, but I do enjoy making
+Tracking expenses is not one of my favorite activities, but I do enjoy making
 some sense of where money is being spent at.
 
 Recently I discovered [ledger](https://www.ledger-cli.org) which is a double
@@ -12,16 +12,56 @@ Join me in this adventure of setting up an environment for leveraging `ledger`
 together with a bunch of code in an attempt to gain control again of my personal
 finances without spending countless hours manually writing transactions.
 
+## Leger-cli
+
+`ledger-cli` is a double-spending accounting software that is used from the
+command-line.
+
+Given the following journal, written in plain text:
+
+```
+; my.journal
+
+2022/01/14 Big Mammas Pizzeria
+   Expenses:Eating Out           10 SEK
+   Assets:SEK Account
+
+2022/01/13 Opening Balances
+   Assets:SEK Account            10000 SEK
+   Assets:Cash                   200 SEK
+   Equity:Opening Balances
+```
+
+One can run `ledger -f my.journal balance` to get:
+
+```
+           10190 SEK  Assets
+             200 SEK    Cash
+            9990 SEK    SEK Account
+          -10200 SEK  Equity:Opening Balances
+              10 SEK  Expenses:Eating Out
+--------------------
+                   0
+```
+
+If you, like me, detest manual work and appreciate the clarity of CLI interfaces
+and the comfort of versioned controlled information, this might have triggered
+your curiosity.
+
 ## Starting point
+
+To give a feeling of the complexity degree of my personal finances, this
+summarizes what I need to track:
 
 2 mortgages, 5 banks, 7 checking accounts (including a split account with my
 partner), 4 crypto CEX, several DEX operations, 3 broker platforms, 2 e-money
-institutions, stock options and pension funds.
+institutions, stock options and pension funds, income from salary, royalties and
+investments, 3 currencies.
 
 Definitely I could simplify much of my financial reporting by removing some of
 the fat (getting reid i)
 
-Bookeeping use-case break-down:
+Bookkeeping use-case break-down:
 
 1. Tracking expenses & income from and to private checking accounts.
 1. Tracking expenses from creditors.
