@@ -1,7 +1,17 @@
 #!/bin/bash
 
-echo <<EOF #!/bin/bash
-Scripts/format-staged
-EOF > .git/pre-commit
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+HOOKS_DIR="$REPO_ROOT/.git/hooks"
+PRE_COMMIT_HOOK="$HOOKS_DIR"/pre-commit
+CI_DIR="$REPO_ROOT"/CI
 
-chmod u+x .git/pre-commit
+# Re-init hooks directory
+rm -r "$HOOKS_DIR" || true
+mkdir -p "$HOOKS_DIR"
+
+# Install pre-commit hook
+cat > $PRE_COMMIT_HOOK <<EOF
+#!/bin/bash
+"$CI_DIR"/format-staged
+EOF
+chmod u+x $PRE_COMMIT_HOOK
