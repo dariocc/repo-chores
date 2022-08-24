@@ -1,8 +1,11 @@
+D 1.00 SEK
+
 include accounts.ledger
 
 2022-01-01 * Opening Balances
-    Assets:SEB:SEB Principal                 9388 SEK
+    Assets:SEB:SEB Principal                 9388.52 SEK
     Equity:Opening Balances
+
 ;Assets:ICA:ICA Privat                    85992.1 SEK
 ;Assets:ICA:ICA Shared                    4576.86 SEK
 ;Assets:ING:Cuenta Sin Nómina             €3805.00
