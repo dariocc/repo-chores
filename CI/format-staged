@@ -2,6 +2,8 @@
 FILES=$(git diff --cached --name-only --diff-filter=ACMR | sed 's| |\\ |g')
 [ -z "$FILES" ] && exit 0
 
+echo "Running md-format on files"
+
 # Run md-format on all selected files
 echo "$FILES" | mdformat
 
