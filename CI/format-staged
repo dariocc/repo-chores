@@ -5,7 +5,7 @@ FILES=$(git diff --cached --name-only --diff-filter=ACMR -- '*.md' | sed 's| |\\
 echo "Running md-format on files"
 
 # Run md-format on all selected files
-echo "$FILES" | xargs -I{} mdformat {}
+echo "$FILES" | xargs -I{} mdformat --wrap 80 {} 
 
 # Add back the modified/prettified files to staging
 echo "$FILES" | xargs git add
