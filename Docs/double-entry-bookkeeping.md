@@ -19,9 +19,7 @@ command-line.
 
 Given the following journal, written in plain text:
 
-```
-; my.journal
-
+```!Examples/my.journal
 2022/01/14 Big Mammas Pizzeria
    Expenses:Eating Out           10 SEK
    Assets:SEK Account
@@ -44,9 +42,15 @@ One can run `ledger -f my.journal balance` to get:
                    0
 ```
 
-If you, like me, detest manual work and appreciate the clarity of CLI interfaces
-and the comfort of versioned controlled information, this might have triggered
-your curiosity.
+Hopefully this will have triggered your interest. I suggest a reading to the
+[ledger tutorial](https://www.ledger-cli.org/3.0/doc/ledger3.html#Ledger-Tutorial)
+to better follow along this article as I won't be explaining the basis of ledger
+or double-spending
+
+## Structuring your journal project
+
+While the ledger tutorial is great in terms of information, it does little to
+help you make decisions on how to take advantage of it in your dailty
 
 ## Starting point
 
