@@ -3,20 +3,23 @@ set -ue
 
 SCRIPT_DIR=$(dirname "$0")
 REPO_ROOT="$(git rev-parse --show-toplevel)"
+REPO_CHORES_DIR="$REPO_ROOT/repo-chores"
 HOOKS_DIR="$REPO_ROOT/.git/hooks"
 PRE_COMMIT_HOOK="$HOOKS_DIR"/pre-commit
-VIRTUALENV_DIR="$REPO_ROOT/.virtualenv"
+HOOK_COMMENT="installed-by-repo-chores"
+VIRTUALENV_DIR="$REPO_CHORES_DIR/.virtualenv"
 FORMAT_STAGED_SCRIPT="$SCRIPT_DIR"/format-staged
 REQUIREMENTS_TXT="$REPO_ROOT"/requirements.txt
 
-# Re-init hooks directory
-rm -r "$HOOKS_DIR" || true
 mkdir -p "$HOOKS_DIR"
 
 # Install pre-commit hook
+if [ -f "$PRE_COMMIT_HOOK" ]; then
+    sed -i '/'"$HOOK_COMMENT"'/d' "$PRE_COMMIT_HOOK"
+fi
 cat > "$PRE_COMMIT_HOOK" <<EOF
 #!/bin/bash
-"$FORMAT_STAGED_SCRIPT"
+"$FORMAT_STAGED_SCRIPT" # "$HOOK_COMMENT"
 EOF
 chmod u+x "$PRE_COMMIT_HOOK"
 
