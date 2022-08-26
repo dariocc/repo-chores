@@ -1,4 +1,7 @@
 # Foo
 
 ```!Examples/foo.bar
-Something wrong
+Okay
+```
+
+This rulezzz.
