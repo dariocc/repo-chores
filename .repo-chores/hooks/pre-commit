@@ -29,6 +29,5 @@ fi
 echo "Running markdown formatter on staged files..."
 echo "$STAGED_FILES" | xargs bash -c '-I{} mdformat --wrap '"$WRAP_WIDTH"' {} | '
 
-echo "$STAGED_FILES" | xargs git add
-
-exit 0
+echo "Staged markdown files have been formatted. Verify the changes, stage the files and re-attempt the commit"
+exit 1
