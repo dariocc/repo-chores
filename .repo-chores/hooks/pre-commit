@@ -32,7 +32,7 @@ staged_files_with_unstaged_changes() {
 # shellcheck disable=SC1091
 . "$VIRTUALENV_DIR"/bin/activate
 
-if staged_files_with_unstaged_changes; then
+if ! staged_files_with_unstaged_changes; then
     echo "You have unstaged changes for some of your staged markdown files."
     echo "Stage your changes before committing to prevent your unstaged changes to be overwritten by this commit hook."
     exit 1
@@ -48,7 +48,7 @@ echo "$STAGED_FILES" | xargs -I{} "$REPO_CHORES_MD_DIR"/embed-code-blocks {}
 echo "...DONE!"
 echo
 
-if staged_files_with_unstaged_changes; then
+if ! staged_files_with_unstaged_changes; then
     echo "Staged markdown files have been formatted and code-blocks have been embedded."
     echo "Verify the changes make sense, stage and attempt to commit again."
     exit 1
