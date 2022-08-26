@@ -16,8 +16,8 @@ UNSTAGED_FILES="$("$REPO_CHORES_GIT_DIR"/diff-list-acmr '*.md')"
 
 if [[ $(comm -3 --total <(echo "$STAGED_FILES" | sort) <(echo "$UNSTAGED_FILES" | sort) | wc -c) -ne 0 ]]
 then
-    echo "Some of your staged files need formatting but you have unstaged changes. \
-          Stage your changes before committing to prevent your unstaged changes to be overriden".
+    echo "Some of your staged files need formatting but you have unstaged changes."
+    echo "Stage your changes before committing to prevent your unstaged changes to be overriden"
     exit 1
 fi
 
