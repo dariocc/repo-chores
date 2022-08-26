@@ -1,7 +1,7 @@
 # Foo
 
 ```!Examples/foo.bar
-Okay
+This is foo bar!
 ```
 
 This rulezzz.
