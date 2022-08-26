@@ -6,7 +6,7 @@ REPO_CHORES_GIT_DIR="$REPO_CHORES_DIR/git"
 REPO_CHORES_MD_DIR="$REPO_CHORES_DIR/md"
 VIRTUALENV_DIR="$REPO_CHORES_DIR/.virtualenv"
 
-echo "::repo-chores::markdown-hooks::"
+echo "== repo-chores::markdown-hooks =="
 
 STAGED_FILES="$("$REPO_CHORES_GIT_DIR"/diff-list-cached-acmr '*.md')"
 
