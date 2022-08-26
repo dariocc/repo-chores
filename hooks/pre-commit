@@ -3,6 +3,7 @@
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 REPO_CHORES_DIR="$REPO_ROOT/.repo-chores"
 REPO_CHORES_GIT_DIR="$REPO_CHORES_DIR/git"
+REPO_CHORES_MD_DIR="$REPO_CHORES_DIR/md"
 VIRTUALENV_DIR="$REPO_CHORES_DIR/.virtualenv"
 
 # shellcheck disable=SC1091
@@ -21,7 +22,9 @@ then
 fi
 
 echo "Running markdown formatter on staged files..."
-echo "$STAGED_FILES"
+echo "$STAGED_FILES" | xargs "$REPO_CHORES_MD_DIR"/format
+
+echo "Runnin 
 
 echo "Staged markdown files have been formatted. Verify the changes, stage the files and re-attempt the commit"
 exit 1
