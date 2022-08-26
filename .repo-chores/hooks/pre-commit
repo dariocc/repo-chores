@@ -1,6 +1,15 @@
 #!/bin/bash
 
 SCRIPT_DIR=$(dirname "$0")
+VIRTUALENV_DIR="$REPO_CHORES_DIR/.virtualenv"
+
+if [ ! -f "$VIRTUALENV_DIR"/bin/activate ]
+then
+    "$SCRIPT_DIR"/config
+fi
+
+# shellcheck disable=SC1091
+. "$VIRTUALENV_DIR"/bin/activate
 
 mkfifo staged
 mkfifo unstaged
@@ -17,9 +26,7 @@ then
     exit 1
 fi
 
-WRAP_WIDTH=80
 echo "Running markdown formatter on staged files..."
-WRAP_WIDTH=80
 echo "$STAGED_FILES" | xargs bash -c '-I{} mdformat --wrap '"$WRAP_WIDTH"' {} | '
 
 echo "$STAGED_FILES" | xargs git add

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+
+# shellcheck disable=SC2139
+alias build="(cd ""$REPO_ROOT""/2022/seb && make)"
