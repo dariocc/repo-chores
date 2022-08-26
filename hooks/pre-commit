@@ -9,9 +9,9 @@ VIRTUALENV_DIR="$REPO_CHORES_DIR/.virtualenv"
 . "$VIRTUALENV_DIR"/bin/activate
 
 STAGED_FILES="$("$REPO_CHORES_GIT_DIR"/diff-list-cached-acmr '*.md')"
-UNSTAGED_FILES="$("$REPO_CHORES_GIT_DIR"/diff-list-acmr '*.md' > unstaged)"
+UNSTAGED_FILES="$("$REPO_CHORES_GIT_DIR"/diff-list-acmr '*.md')"
 
-[ -z "$STAGED" ] && exit 0
+[ -z "$STAGED_FILES" ] && exit 0
 
 if [[ $(comm -3 --total <(echo "$STAGED_FILES" | sort) <(echo "$UNSTAGED_FILES" | sort unstaged) | wc -c) -ne 0 ]]
 then
