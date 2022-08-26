@@ -1,4 +1,4 @@
-#!/bin/bash -eux
+#!/bin/bash -eu
 
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 REPO_CHORES_DIR="$REPO_ROOT/.repo-chores"
