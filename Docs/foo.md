@@ -1,5 +1,5 @@
 # Foo
 
 ```!Examples/foo.bar
-foo me now or never
+This is foo bar!
 ```
