@@ -3,6 +3,3 @@ gen/
 
 # LibreOffice lock files
 .~lock.*
-
-# Virtualenv
-.virtualenv/
