@@ -7,4 +7,4 @@ if [ -f "$REPO_CHORES_CONFIG" ]; then
     WRAP_WIDTH="$(jq "$REPO_CHORES_CONFIG" '.markdown.wrap-width' 2>/dev/null || true)"
 fi
 
-mdformat --wrap "${WRAP_WIDTH:80}" "$@"
+mdformat --wrap "${WRAP_WIDTH:-80}" "$@"
