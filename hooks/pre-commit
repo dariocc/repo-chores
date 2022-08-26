@@ -21,11 +21,19 @@ then
     exit 1
 fi
 
-echo "Formatting staged files..."
+echo "Applying format to markdown files..."
 echo "$STAGED_FILES" | xargs -I{} "$REPO_CHORES_MD_DIR"/format {}
+echo
 
-echo "Embedding code in code-blocks..." 
+echo "Embeding code-blocks in markdown files..." 
 echo "$STAGED_FILES" | xargs -I{} "$REPO_CHORES_MD_DIR"/embed-code-blocks {}
+echo
 
-echo "Staged markdown files have been formatted. Verify the changes, stage the files and re-attempt the commit"
-exit 1
+UNSTAGED_FILES="$("$REPO_CHORES_GIT_DIR"/diff-list-acmr '*.md')"
+if [[ $(comm -3 <(echo "$STAGED_FILES" | sort) <(echo "$UNSTAGED_FILES" | sort) | wc -c) -ne 0 ]]
+then
+    echo "Staged markdown files have been formatted. Verify the changes, stage the files and re-attempt committing."
+    exit 1
+else
+    echo "Hurra! No changes were required! I will now commit your files..."
+fi
