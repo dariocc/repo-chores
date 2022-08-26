@@ -1,0 +1,27 @@
+#!/bin/bash
+
+SCRIPT_DIR=$(dirname "$0")
+
+mkfifo staged
+mkfifo unstaged
+
+"$SCRIPT_DIR"/diff-list-cached-acmr '*.md' > staged
+"$SCRIPT_DIR"/diff-list-acmr '*.md' > unstaged
+
+[ -z <(staged) ] && exit 0
+
+if [[ $(comm -3 --total <(sort staged) <(sort unstaged) | wc -c) -ne 0 ]]
+then
+    echo "Some of your staged files need formatting but you have unstaged changes. \
+          Stage your changes before committing to prevent your unstaged changes to be overriden".
+    exit 1
+fi
+
+WRAP_WIDTH=80
+echo "Running markdown formatter on staged files..."
+WRAP_WIDTH=80
+echo "$STAGED_FILES" | xargs bash -c '-I{} mdformat --wrap '"$WRAP_WIDTH"' {} | '
+
+echo "$STAGED_FILES" | xargs git add
+
+exit 0

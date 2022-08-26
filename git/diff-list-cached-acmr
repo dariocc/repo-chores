@@ -1,0 +1,4 @@
+#!/bin/bash
+
+filter="$1"
+git diff --cached --name-only --diff-filter=ACMR -- "$filter" | sed 's| |\\ |g'

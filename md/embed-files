@@ -1,0 +1,2 @@
+WRAP_WIDTH=80
+echo "$STAGED_FILES" | xargs bash -c '-I{} mdformat --wrap '"$WRAP_WIDTH"' {} | '
