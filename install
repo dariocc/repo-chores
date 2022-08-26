@@ -5,28 +5,23 @@ REPO_ROOT="$(git rev-parse --show-toplevel)"
 REPO_CHORES_DIR="$REPO_ROOT/.repo-chores"
 HOOKS_DIR="$REPO_ROOT/.git/hooks"
 PRE_COMMIT_HOOK="$HOOKS_DIR"/pre-commit
-HOOK_COMMENT="installed-by-repo-chores"
+HOOK_COMMENT="$(jq -r '.hook_comment' "$SCRIPT_DIR"/properties.json)"
 VIRTUALENV_DIR="$REPO_CHORES_DIR/.virtualenv"
 FORMAT_STAGED_SCRIPT="$SCRIPT_DIR"/hooks/pre-commit
 REQUIREMENTS_TXT="$SCRIPT_DIR"/requirements.txt
 
 mkdir -p "$HOOKS_DIR"
 
+"$SCRIPT_DIR"/uninstall
+
 # Install pre-commit hook
-if [ -f "$PRE_COMMIT_HOOK" ]; then
-    sed -i '/'"$HOOK_COMMENT"'/d' "$PRE_COMMIT_HOOK"
-fi
 cat > "$PRE_COMMIT_HOOK" <<EOF
 #!/bin/bash
 $FORMAT_STAGED_SCRIPT # $HOOK_COMMENT
 EOF
 chmod u+x "$PRE_COMMIT_HOOK"
 
-# Re-create python virtualenv with dependencies
-if command -v deactivate 2>/dev/null; then 
-    deactivate
-fi
-rm -r "$VIRTUALENV_DIR" 2>/dev/null || true
+# Create python virtualenv with dependencies
 virtualenv -p "$(command -v python3)" "$VIRTUALENV_DIR"
 # shellcheck disable=SC1091
 source "$VIRTUALENV_DIR"/bin/activate
