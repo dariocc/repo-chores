@@ -1,5 +1,4 @@
-#!/bin/bash
-set -ue
+#!/bin/bash -eu
 
 SCRIPT_DIR=$(dirname "$0")
 REPO_ROOT="$(git rev-parse --show-toplevel)"
