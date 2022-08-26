@@ -1,12 +1,12 @@
 #!/bin/bash
 set -ue
 
+SCRIPT_DIR=$(dirname "$0")
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 HOOKS_DIR="$REPO_ROOT/.git/hooks"
 PRE_COMMIT_HOOK="$HOOKS_DIR"/pre-commit
-CI_DIR="$REPO_ROOT"/CI
 VIRTUALENV_DIR="$REPO_ROOT/.virtualenv"
-FORMAT_STAGED_SCRIPT="$CI_DIR"/format-staged
+FORMAT_STAGED_SCRIPT="$SCRIPT_DIR"/format-staged
 REQUIREMENTS_TXT="$REPO_ROOT"/requirements.txt
 
 # Re-init hooks directory
@@ -29,6 +29,5 @@ virtualenv -p "$(command -v python3)" "$VIRTUALENV_DIR"
 # shellcheck disable=SC1091
 source .virtualenv/bin/activate
 pip install --upgrade pip
-pip install -r "$REQUIREMENTS_TXT"
+pip install -r "$SCRIPT_DIR/$REQUIREMENTS_TXT"
 deactivate
-
