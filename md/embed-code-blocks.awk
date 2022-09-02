@@ -30,7 +30,7 @@ BEGIN{
         while ((getline line < file_path) > 0) {
             print line
         }
-        close(file)
+        close(file_path)
         print "```"
 
         state = WAITING_CODEBLOCK
