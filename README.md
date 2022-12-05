@@ -8,7 +8,7 @@ reappearing in personal projects.
 The recommended way is to use it as a git subtree:
 
 ```
-git remote add origin repo-chores https://github.com/dariocc/repo-chores.git
+git remote add repo-chores https://github.com/dariocc/repo-chores.git
 git subtree -P .repo-chores add --squash repo-chores main
 ```
 
